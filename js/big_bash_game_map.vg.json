@@ -2,20 +2,21 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 800,
     "height": 450,
-    "title": "Big Bash League - Australian Cricket - 2011:2021",
+    "title": "Big Bash League Cricket Australia 2011-2021",
     "projection": {"type": "equirectangular"},
     "layer": [
       {
         "data": {
           "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/js/aus_map.topojson",
-          "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
+          "format": {"type": "topojson", "feature": "STE_2016_AUST"}
         },
-        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+        
+        "mark": {"type": "geoshape", "fill": "lightslategray", "stroke": "white"}
       },
       {
         "data": {
           "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/matches.csv"
-        },
+        },      
         "mark": {"type": "circle", "tooltip": {"content": "data"}},
         "encoding": {
           "longitude": {"field": "long", "type": "quantitative"},
@@ -29,10 +30,15 @@
           "color": {
             "field": "city",
             "type": "nominal",
-            "title": "City"
+            "title": "City",
+            "scale": {"scheme":"category20"}
+          },
+          "tooltip": [
+              {"field": "city", "type": "nominal", "title": "City"},
+              {"field": "id", "type":"quantitative", "aggregate": "count", "title": "Number of Games"}
+            ]
           }
-        }
-      }
+        }      
     ]
   }
 

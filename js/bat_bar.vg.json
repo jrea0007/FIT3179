@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Batting Statistics",
+  "width": 500,
+  "height": 550,
   "data": {
     "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv",
     "format": {"type":"csv"}
@@ -8,32 +10,82 @@
   "params":[
     {
       "name": "Stat_Selection",
+      "value":"totalruns",
       "bind": {
         "input": "select",
         "options": [
           "totalruns",
           "batsr",
-          "6shit"
+          "6shit",
+          "4shit"
         ],
         "labels": [
           "Total Runs",
           "Batting Strike Rate",
-          "6s Hit"
+          "6s Hit",
+          "4s Hit"
         ],
         "name": "Statistic Selection: "
       }
     }
   ],
-  "mark": "bar",
   "transform": [
-    {"calculate": "if(Stat_Selection == '6shit', datum.batting_6, if(Stat_Selection == 'batsr', datum.bat_sr, datum.total_runs))",
+    {"calculate": "if(Stat_Selection == '6shit', datum.batting_6, if(Stat_Selection == 'batsr', datum.bat_sr,if(Stat_Selection=='4shit', datum.batting_4, datum.total_runs)))",
      "as":"value"},
-    {"calculate": "if(Stat_Selection == '6shit', 69 ,if(Stat_Selection == 'batsr', 165, 1798))", "as":"temp"},
+    {"calculate": "if(Stat_Selection == '6shit', 70 ,if(Stat_Selection == 'batsr', 165,if(Stat_Selection=='4shit', 164, 1798)))", "as":"temp"},
     {"filter": "datum.value >= datum.temp"}
 ],
+"layer":[
+{"mark": "bar",
   "encoding": {
     "x": {"field": "value", "type": "quantitative","title":null},
-    "y": {"field": "player", "type": "nominal", "sort":{"field": "value", "op":"average","order":"descending"},"title":"Batsman"}
-  },
-  "config": {}
+    "y": {"field": "player", "type": "nominal", "sort":{"field": "value", "op":"average","order":"descending"},"title":"Batsman"},
+    "tooltip": [
+      {"field": "player", "type":"nominal", "title": "Name"},
+      {"field": "value", "type":"quantitative", "title": "Value"}
+    ]
+  }
+
+},
+{"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 200,
+  "dy": -250,
+  "fontSize": 11.5,
+  "fontStyle": "italic",
+  "fontWeight":"bold",
+  "baseline": "line-top"},
+  "encoding": {
+    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "color": {"value": "black"},
+    "opacity": {
+      "condition": {
+        "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '6shit' || Stat_Selection == 'totalruns') ",
+        "value":1
+      },
+      "value": 0
+    }
+
+
+}},
+{"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 180,
+  "dy": -200,
+  "fontSize": 11.5,
+  "fontStyle": "italic",
+  "fontWeight":"bold",
+  "baseline": "line-top"},
+  "encoding": {
+    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "color": {"value": "black"},
+    "opacity": {
+      "condition": {
+        "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '4shit')",
+        "value":1
+      },
+      "value": 0
+    }}}]
 }

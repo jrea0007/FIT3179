@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Batting Statistics",
-  "width": 500,
-  "height": 550,
+  "width": 450,
+  "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv",
     "format": {"type":"csv"}
@@ -41,24 +41,25 @@
     "x": {"field": "value", "type": "quantitative","title":null},
     "y": {"field": "player", "type": "nominal", "sort":{"field": "value", "op":"average","order":"descending"},"title":"Batsman"},
     "tooltip": [
-      {"field": "player", "type":"nominal", "title": "Name"},
-      {"field": "value", "type":"quantitative", "title": "Value"}
-    ]
+      {"field": "player", "type":"nominal", "title": "Player" },
+      {"field": "value", "type":"quantitative","title": "Value"}
+    ],
+    "color":{"value":"#636363"}
   }
 
 },
 {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 200,
-  "dy": -250,
+  "dx": 140,
+  "dy": -230,
   "fontSize": 11.5,
   "fontStyle": "italic",
   "fontWeight":"bold",
   "baseline": "line-top"},
   "encoding": {
     "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
-    "color": {"value": "black"},
+    "color": {"value": "#9ecae1"},
     "opacity": {
       "condition": {
         "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '6shit' || Stat_Selection == 'totalruns') ",
@@ -66,26 +67,146 @@
       },
       "value": 0
     }
-
-
 }},
 {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 180,
-  "dy": -200,
+  "dx": 140,
+  "dy": -178,
   "fontSize": 11.5,
   "fontStyle": "italic",
   "fontWeight":"bold",
   "baseline": "line-top"},
+
   "encoding": {
     "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
-    "color": {"value": "black"},
+    "color": {"value": "#9ecae1"},
     "opacity": {
       "condition": {
         "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '4shit')",
         "value":1
       },
       "value": 0
-    }}}]
-}
+    }}},
+
+  {"mark":{
+      "type": "text",
+      "align": "right",
+      "dx": 170,
+      "dy": -230,
+      "fontSize": 11.5,
+      "fontStyle": "italic",
+      "fontWeight":"bold",
+      "baseline": "line-top"},
+      "encoding": {
+        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "color": {"value": "#fc4e2a"},
+        "opacity": {
+          "condition": {
+            "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == '4shit')",
+            "value":1
+          },
+          "value": 0
+        }}},
+
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 170,
+    "dy": -178,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "color": {"value": "#fc4e2a"},
+        "opacity": {
+          "condition": {
+            "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == 'totalruns')",
+            "value":1
+          },
+          "value": 0
+          }}},
+ {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": -20,
+    "dy": -90,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Aaron Finch, 2nd Most Runs, Most","4s and 4th Most 6s in BBL History"]},
+          "color": {"value": "#fc4e2a"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == '6shit')",
+                "value":1
+                },
+                "value": 0
+        }}},
+      
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 20,
+    "dy": -135,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs, 5th Most 4s","and 8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == 'totalruns')",
+                "value":1
+                },
+                "value": 0
+        }}},
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 20,
+    "dy": -40,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs, 5th Most 4s","and 8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == '4shit')",
+                "value":1
+                },
+                "value": 0
+        }}},
+      
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": -50,
+    "dy": 105,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs","5th Most 4s","8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == '6shit')",
+                "value":1
+                },
+                "value": 0
+        }}}],
+    "config": {}
+  
+  }
+  

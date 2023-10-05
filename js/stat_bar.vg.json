@@ -1,0 +1,301 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Player Statistics",
+  "width": 450,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv",
+    "format": {"type":"csv"}
+  },
+  "params":[
+    {
+      "name": "Stat_Selection",
+      "value":"totalruns",
+      "bind": {
+        "input": "select",
+        "options": [
+          "totalruns",
+          "batsr",
+          "6shit",
+          "4shit",
+          "balls_faced",
+          "totalwickets",
+          "bowlsr",
+          "dot_percentage"
+        ],
+        "labels": [
+          "Total Runs",
+          "Batting Strike Rate",
+          "6s Hit",
+          "4s Hit",
+          "Balls Faced",
+          "Total Wickets",
+          "Bowling Strike Rate",
+          "Dot Ball Percentage"
+        ],
+        "name": "Statistic Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"calculate": "datum.bowling_0 / datum.balls_bowled * 100", "as":"dot_percentage"},
+    {"calculate": "datum.bowl_sr*-1","as":"bowl_sr_chart"},
+    {"calculate": "if(Stat_Selection == '6shit', datum.batting_6, if(Stat_Selection == 'batsr', datum.bat_sr,if(Stat_Selection=='4shit', datum.batting_4, if(Stat_Selection=='balls_faced', datum.balls_faced,if(Stat_Selection=='totalwickets', datum.total_wickets,if(Stat_Selection=='bowlsr', datum.bowl_sr_chart,if(Stat_Selection=='dot_percentage', datum.dot_percentage, datum.total_runs)))))))",
+     "as":"value"},
+    {"calculate": "if(Stat_Selection == '6shit', datum.batting_6, if(Stat_Selection == 'batsr', datum.bat_sr,if(Stat_Selection=='4shit', datum.batting_4, if(Stat_Selection=='balls_faced', datum.balls_faced,if(Stat_Selection=='totalwickets', datum.total_wickets,if(Stat_Selection=='bowlsr', -datum.bowl_sr,if(Stat_Selection=='dot_percentage', datum.dot_percentage, datum.total_runs)))))))",
+     "as":"tooltip_value"},
+    {"calculate": "if(Stat_Selection == '6shit', 70 ,if(Stat_Selection == 'batsr', 165,if(Stat_Selection=='4shit', 164, if(Stat_Selection=='balls_faced', 1472,if(Stat_Selection=='totalwickets', 79 ,if(Stat_Selection=='bowlsr', -11.75, if(Stat_Selection=='dot_percentage', 45.5, 1798)))))))", "as":"temp"},
+    {"filter": "datum.value >= datum.temp"},
+    {"calculate": "if(Stat_Selection == 'bowlsr', datum.value*-1, datum.value)","as": "value"}
+],
+"layer":[
+{"mark": "bar",
+  "encoding": {
+    "x": {"field": "value", "type": "quantitative","title":null},
+    "y": {"field": "player", "type": "nominal", "sort":{"field": "tooltip_value", "op":"average","order":"descending"},"title":"Batsman"},
+    "tooltip": [
+      {"field": "player", "type":"nominal", "title": "Player" },
+      {"field": "value", "type":"quantitative","title": "Value"}
+    ],
+    "color":{"value":"#ffffff"}
+  }
+
+},
+{"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 140,
+  "dy": -230,
+  "fontSize": 11.5,
+  "fontStyle": "italic",
+  "fontWeight":"bold",
+  "baseline": "line-top"},
+  "encoding": {
+    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "color": {"value": "#9ecae1"},
+    "opacity": {
+      "condition": {
+        "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '6shit' || Stat_Selection == 'totalruns') ",
+        "value":1
+      },
+      "value": 0
+    }
+}},
+{"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 140,
+  "dy": -178,
+  "fontSize": 11.5,
+  "fontStyle": "italic",
+  "fontWeight":"bold",
+  "baseline": "line-top"},
+
+  "encoding": {
+    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "color": {"value": "#9ecae1"},
+    "opacity": {
+      "condition": {
+        "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '4shit')",
+        "value":1
+      },
+      "value": 0
+    }}},
+
+  {"mark":{
+      "type": "text",
+      "align": "right",
+      "dx": 170,
+      "dy": -230,
+      "fontSize": 11.5,
+      "fontStyle": "italic",
+      "fontWeight":"bold",
+      "baseline": "line-top"},
+      "encoding": {
+        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "color": {"value": "#fc4e2a"},
+        "opacity": {
+          "condition": {
+            "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == '4shit')",
+            "value":1
+          },
+          "value": 0
+        }}},
+
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 170,
+    "dy": -178,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "color": {"value": "#fc4e2a"},
+        "opacity": {
+          "condition": {
+            "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == 'totalruns')",
+            "value":1
+          },
+          "value": 0
+          }}},
+ {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": -20,
+    "dy": -90,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Aaron Finch, 2nd Most Runs, Most","4s and 4th Most 6s in BBL History"]},
+          "color": {"value": "#fc4e2a"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'AJ Finch' && (Stat_Selection == '6shit')",
+                "value":1
+                },
+                "value": 0
+        }}},
+      
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 20,
+    "dy": -135,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs, 5th Most 4s","and 8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == 'totalruns')",
+                "value":1
+                },
+                "value": 0
+        }}},
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 20,
+    "dy": -40,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs, 5th Most 4s","and 8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == '4shit')",
+                "value":1
+                },
+                "value": 0
+        }}},
+      
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": -50,
+    "dy": 105,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Shaun Marsh, 3rd Most Runs","5th Most 4s","8th Most 6s in BBL History"]},
+          "color": {"value": "#fd8d3c"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SE Marsh' && (Stat_Selection == '6shit')",
+                "value":1
+                },
+                "value": 0
+        }}},
+  {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 20,
+    "dy": -230,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Ben Laughlin, Most Wickets in BBL History"]},
+          "color": {"value": "#253494"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'B Laughlin' && (Stat_Selection == 'totalwickets')",
+                "value":1
+                },
+                "value": 0
+        }}},
+    {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 40,
+    "dy": -180,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Sean Abbott, 2nd Most Wickets in BBL History"]},
+          "color": {"value": "#e7298a"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'SA Abbott' && (Stat_Selection == 'totalwickets')",
+                "value":1
+                },
+                "value": 0
+        }}},
+    {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 10,
+    "dy": -235,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Ish Sodhi, Best Bowling Strike Rate and","10th Best dot ball % in BBL History"]},
+          "color": {"value": "#253494"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'IS Sodhi' && (Stat_Selection == 'bowlsr')",
+                "value":1
+                },
+                "value": 0
+        }}},
+    {"mark":{
+    "type": "text",
+    "align": "right",
+    "dx": 10,
+    "dy": 210,
+    "fontSize": 11.5,
+    "fontStyle": "italic",
+    "fontWeight":"bold",
+    "baseline": "line-top"},
+    "encoding": {
+          "text": {"value":["Ish Sodhi, Best Bowling Strike Rate and","10th Best dot ball % in BBL History"]},
+          "color": {"value": "#253494"},
+          "opacity": {
+            "condition": {
+              "test": "datum['player'] == 'IS Sodhi' && (Stat_Selection == 'dot_percentage')",
+                "value":1
+                },
+                "value": 0
+        }}}],
+    "background":"dimgrey",
+    "config": {"axis": {"labelColor":"white","titleColor":"white"},"title": {"color":"white"}}
+  
+  }

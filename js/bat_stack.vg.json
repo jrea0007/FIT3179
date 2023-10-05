@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv"
+  },
+  "width":300,
+  "height":300,
+  "transform": [
+    {"filter":"datum.player == 'CA Lynn' || datum.player == 'AJ Finch' || datum.player == 'SE Marsh' || datum.player == 'DJM Short' || datum.player == 'MP Stoinis' || datum.player == 'GJ Maxwell' || datum.player == 'JW Wells' || datum.player == 'MC Henriques' || datum.player == 'CJ Ferguson' || datum.player == 'MS Wade'"},
+    {"calculate": "datum.batting_2*2","as": "batting_2"},
+    {"calculate": "datum.batting_3*3","as": "batting_3"},
+    {"calculate": "datum.batting_4*4","as": "batting_4"},
+    {"calculate": "datum.batting_6*6","as": "batting_6"},
+
+    
+    {"fold": [
+      "batting_6",
+      "batting_4",
+      "batting_3",
+      "batting_2",
+      "batting_1"
+    ],
+    "as":["key","value"]}],
+  "layer":[
+  {"mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "player",
+      "type": "nominal",
+      "title": "Batsman",
+      "sort":{"field":"total_runs","order":"descending"}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Runs"
+      },
+    "color": {
+      "field": "key",
+      "type": "nominal",
+      "legend": {
+        "orient": "bottom-right",
+        "offset":-50,
+        "labelExpr": "datum.label == 'batting_1' ? '1s' : datum.label == 'batting_2' ? '2s' :datum.label == 'batting_3' ? '3s' : datum.label == 'batting_4' ? '4s' : datum.label == 'batting_5' ? '5s': datum.label == 'batting_6' ? '6s': ''"
+      }}}},
+  {"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 240,
+  "dy": -140,
+  "fontSize": 12.5,
+  "baseline": "line-top"},
+  "encoding": {
+    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "color": {"value": "#9ecae1"},
+    "opacity": {
+      
+      "value": 1
+    }
+    
+}},
+{"mark":{
+  "type": "text",
+  "align": "right",
+  "dx": 300,
+  "dy": -110,
+  "fontSize": 12.5,
+  "baseline": "line-top"},
+  "encoding": {
+    "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+    "color": {"value": "#fc4e2a"},
+    "opacity": {
+      "value": 1
+    }}}],
+      "title": "Batting Runs",
+      "config": {}
+}

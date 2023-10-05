@@ -23,11 +23,11 @@
 
     <div class="pure-g">
       <div class="pure-u-1-2">
-        <div id="big_bash_game_map" class="vis-container"></div>
+        <div id="big_bash_game_map" class="vis-container1"></div>
       </div>
 
       <div class="pure-u-1-2">
-        <div id ="bat_bar" class="vis-container"></div>
+        <div id ="stat_bar" class="vis-container2"></div>
       </div>
       
     </div>
@@ -38,8 +38,8 @@
     var spec1 = "js/big_bash_game_map.vg.json";
     vegaEmbed('#big_bash_game_map', spec1, {"actions": false });
 
-    var spec2 = "js/bat_bar.vg.json";
-    vegaEmbed('#bat_bar', spec2).then(function(result) {
+    var spec2 = "js/stat_bar.vg.json";
+    vegaEmbed('#stat_bar', spec2).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

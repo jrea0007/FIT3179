@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
+    "width": 700,
     "height": 450,
     "title": "Games Played in the Big Bash League Cricket 2010-2021",
     "projection": {"type": "equirectangular"},
@@ -35,7 +35,7 @@
           },
           "tooltip": [
               {"field": "city", "type": "nominal", "title": "City"},
-              {"field": "id", "type":"quantitative", "aggregate": "count", "title": "Number of Games"}
+              {"field": "id", "type":"quantitative", "aggregate": "count", "title": "Number of Matches"}
             ]
           }
         }      

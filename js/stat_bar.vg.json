@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Player Statistics",
-  "width": 450,
-  "height": 500,
+  "width": 300,
+  "height": 450,
   "data": {
     "url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv",
     "format": {"type":"csv"}
@@ -10,7 +10,7 @@
   "params":[
     {
       "name": "Stat_Selection",
-      "value":"totalruns",
+      "value":"totalwickets",
       "bind": {
         "input": "select",
         "options": [
@@ -64,14 +64,14 @@
 {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 140,
-  "dy": -230,
-  "fontSize": 11.5,
+  "dx": 40,
+  "dy": -210,
+  "fontSize": 10,
   "fontStyle": "italic",
   "fontWeight":"bold",
   "baseline": "line-top"},
   "encoding": {
-    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "text": {"value":["Chris Lynn, Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
     "color": {"value": "#9ecae1"},
     "opacity": {
       "condition": {
@@ -84,15 +84,15 @@
 {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 140,
-  "dy": -178,
-  "fontSize": 11.5,
+  "dx": 40,
+  "dy": -170,
+  "fontSize": 10,
   "fontStyle": "italic",
   "fontWeight":"bold",
   "baseline": "line-top"},
 
   "encoding": {
-    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
+    "text": {"value":["Chris Lynn, Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
     "color": {"value": "#9ecae1"},
     "opacity": {
       "condition": {
@@ -105,14 +105,14 @@
   {"mark":{
       "type": "text",
       "align": "right",
-      "dx": 170,
-      "dy": -230,
-      "fontSize": 11.5,
+      "dx": 40,
+      "dy": -210,
+      "fontSize": 10,
       "fontStyle": "italic",
       "fontWeight":"bold",
       "baseline": "line-top"},
       "encoding": {
-        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "text": {"value":["Aaron Finch, 2nd Most Runs, Most 4s","and 4th Most 6s in BBL History"]},
         "color": {"value": "#fc4e2a"},
         "opacity": {
           "condition": {
@@ -125,14 +125,14 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 170,
-    "dy": -178,
-    "fontSize": 11.5,
+    "dx": 45,
+    "dy": -170,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
     "encoding": {
-        "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
+        "text": {"value":["Aaron Finch, 2nd Most Runs, Most 4s","and 4th Most 6s in BBL History "]},
         "color": {"value": "#fc4e2a"},
         "opacity": {
           "condition": {
@@ -144,14 +144,14 @@
  {"mark":{
     "type": "text",
     "align": "right",
-    "dx": -20,
-    "dy": -90,
-    "fontSize": 11.5,
+    "dx": -10,
+    "dy": -85,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
     "encoding": {
-          "text": {"value":["Aaron Finch, 2nd Most Runs, Most","4s and 4th Most 6s in BBL History"]},
+          "text": {"value":["Aaron Finch, 2nd Most Runs,","Most 4s and 4th Most 6s","in BBL History"]},
           "color": {"value": "#fc4e2a"},
           "opacity": {
             "condition": {
@@ -164,9 +164,9 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 20,
-    "dy": -135,
-    "fontSize": 11.5,
+    "dx": 60,
+    "dy": -125,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
@@ -183,9 +183,9 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 20,
-    "dy": -40,
-    "fontSize": 11.5,
+    "dx": 50,
+    "dy": -35,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
@@ -203,14 +203,14 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": -50,
-    "dy": 105,
-    "fontSize": 11.5,
+    "dx": -40,
+    "dy": 95,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
     "encoding": {
-          "text": {"value":["Shaun Marsh, 3rd Most Runs","5th Most 4s","8th Most 6s in BBL History"]},
+          "text": {"value":["Shaun Marsh, 3rd Most","Runs, 5th Most 4s","and 8th Most 6s"]},
           "color": {"value": "#fd8d3c"},
           "opacity": {
             "condition": {
@@ -222,9 +222,9 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 20,
-    "dy": -230,
-    "fontSize": 11.5,
+    "dx": 60,
+    "dy": -210,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
@@ -241,9 +241,9 @@
     {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 40,
-    "dy": -180,
-    "fontSize": 11.5,
+    "dx": 75,
+    "dy": -160,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
@@ -260,14 +260,14 @@
     {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 10,
-    "dy": -235,
-    "fontSize": 11.5,
+    "dx": 0,
+    "dy": -210,
+    "fontSize": 10,
     "fontStyle": "italic",
     "fontWeight":"bold",
     "baseline": "line-top"},
     "encoding": {
-          "text": {"value":["Ish Sodhi, Best Bowling Strike Rate and","10th Best dot ball % in BBL History"]},
+          "text": {"value":["Ish Sodhi, Best Bowling Strike","Rate in BBL History"]},
           "color": {"value": "#253494"},
           "opacity": {
             "condition": {
@@ -275,27 +275,8 @@
                 "value":1
                 },
                 "value": 0
-        }}},
-    {"mark":{
-    "type": "text",
-    "align": "right",
-    "dx": 10,
-    "dy": 210,
-    "fontSize": 11.5,
-    "fontStyle": "italic",
-    "fontWeight":"bold",
-    "baseline": "line-top"},
-    "encoding": {
-          "text": {"value":["Ish Sodhi, Best Bowling Strike Rate and","10th Best dot ball % in BBL History"]},
-          "color": {"value": "#253494"},
-          "opacity": {
-            "condition": {
-              "test": "datum['player'] == 'IS Sodhi' && (Stat_Selection == 'dot_percentage')",
-                "value":1
-                },
-                "value": 0
         }}}],
-    "background":"dimgrey",
+    "background":"#525252",
     "config": {"axis": {"labelColor":"white","titleColor":"white"},"title": {"color":"white"}}
   
   }

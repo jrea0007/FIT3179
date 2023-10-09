@@ -1,0 +1,72 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":350,
+    "height":350,
+    "title":"Allrounder Statistics",
+    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+    "data": {"url": "https://raw.githubusercontent.com/jrea0007/FIT3179/main/data/cricket_stats.csv"},
+    "transform": [
+        {"window": [{
+            "op": "dense_rank",
+            "field":"total_runs",
+            "as": "run_rank"
+        },
+        {
+            "op": "dense_rank",
+            "field":"total_wickets",
+            "as":"wicket_rank"
+        }]},
+        {"calculate": "datum.run_rank + datum.wicket_rank","as":"rank"}
+    ],
+    "layer":[
+    {"mark": "point",
+    "encoding": {
+      "x": {"field": "total_runs", "type": "quantitative","title":"Runs Scored"},
+      "y": {"field": "total_wickets", "type": "quantitative","title":"Wickets Taken"},
+      "color":{
+        "field":"rank",
+        "type":"quantitative",
+        "sort":"descending",
+        "legend":null,
+        "scale":{
+            "scheme":"blues"
+        }
+      },
+      "tooltip":[
+        {"field":"player","title":"Player"},
+        {"field":"total_runs","title":"Runs Scored"},
+        {"field":"total_wickets","title":"Wickets Taken"}
+      ]
+    }},
+    {"mark": {
+        "type":"text",
+        "align":"right",
+        "dx": 125,
+        "dy":-75,
+        "fontSize":14,
+        "fontStyle": "italic",
+        "baseline": "line-top"},
+        "encoding": {
+            "text": {"value":["Dan Christian"]},
+            "color": {"value": "#f0338b"},
+            "opacity":{"value":1}
+        }
+    },
+    {"mark": {
+        "type":"text",
+        "align":"right",
+        "dx": 95,
+        "dy":-32,
+        "fontSize":14,
+        "fontStyle": "italic",
+        "baseline": "line-top"},
+        "encoding": {
+            "text": {"value":["Ben Cutting"]},
+            "color": {"value": "#2b8cbe"},
+            "opacity":{"value":1}
+        }
+    }
+    ],
+    "background":"#525252",
+    "config": {"axis": {"labelColor":"white","titleColor":"white"},"title":{"color":"white"}}
+  }

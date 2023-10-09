@@ -38,40 +38,31 @@
     "color": {
       "field": "key",
       "type": "nominal",
+      "title":"Run Type",
+      "scale":{"scheme":"blues"},
       "legend": {
-        "orient": "bottom-right",
-        "offset":-50,
+        "orient": "right",
+        "offset":5,
         "labelExpr": "datum.label == 'batting_1' ? '1s' : datum.label == 'batting_2' ? '2s' :datum.label == 'batting_3' ? '3s' : datum.label == 'batting_4' ? '4s' : datum.label == 'batting_5' ? '5s': datum.label == 'batting_6' ? '6s': ''"
       }}}},
   {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 240,
-  "dy": -140,
-  "fontSize": 12.5,
+  "dx": 100,
+  "dy": -150,
+  "fontSize": 13,
+  "fontWeight":"bold",
   "baseline": "line-top"},
   "encoding": {
-    "text": {"value":"Chris Lynn, Most Runs, Most 6s and 2nd Most 4s in BBL History"},
-    "color": {"value": "#9ecae1"},
+    "text": {"value":["Chris Lynn: Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
+    "color": {"value": "#7bccc4"},
     "opacity": {
       
       "value": 1
     }
     
-}},
-{"mark":{
-  "type": "text",
-  "align": "right",
-  "dx": 300,
-  "dy": -110,
-  "fontSize": 12.5,
-  "baseline": "line-top"},
-  "encoding": {
-    "text": {"value":"Aaron Finch, 2nd Most Runs, Most 4s and 4th Most 6s in BBL History "},
-    "color": {"value": "#fc4e2a"},
-    "opacity": {
-      "value": 1
-    }}}],
+}}],
       "title": "Batting Runs",
-      "config": {}
+      "background":"#525252",
+      "config": {"axis": {"labelColor":"white","titleColor":"white"},"title": {"color":"white"}}
 }

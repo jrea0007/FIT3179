@@ -64,5 +64,5 @@
 }}],
       "title": "Batting Runs",
       "background":"#525252",
-      "config": {"axis": {"labelColor":"white","titleColor":"white"},"title": {"color":"white"}}
+      "config": {"axis": {"labelColor":"white","titleColor":"white"},"title": {"color":"white"},"legend": {"titleColor":"white","labelColor":"white"}}
 }

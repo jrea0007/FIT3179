@@ -1,15 +1,111 @@
+
+
+.page {
+    width: 1050px;
+    background-color: #525252;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
 #big_bash_game_map {
-	top:50px;
-	/*bottom: 100px; */
-	left: 50px;
-	/*right: 100px;*/
-	/*height: 1000px;
-	width: 800px;*/
+	align-self: left;
+	color: white;
 }
 
 #stat_bar {
-	top: 50px;
-	left: 150px
+	align-self: right;
+	color: white;
 }
 
 
+
+h1 {
+	text-align: center;
+	color:white;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	color:white;
+}
+
+#bblleft {
+	align-self: right;
+}
+
+#bblright {
+	text-align: right;
+}
+
+#opening_paragraph {
+	text-align: center;
+}
+
+#bbloverviewtitle {
+	text-align: center;
+}
+
+#allroundertitle {
+	text-align: right;
+}
+
+#paragraph_1 {
+ align-self: right;
+ width: fit-content;
+ height: auto;
+ text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.stars {
+	color: #3cc678;
+	font-weight: bold;
+}
+
+.renegades {
+	color: #f94640;
+	font-weight: bold;
+}
+
+.thunder {
+	color: #a1d99b;
+	font-weight: bold;
+}
+
+.sixers {
+	color: #ff4da0;
+	font-weight: bold;
+}
+
+.strikers {
+	color: #1386c0;
+	font-weight: bold;
+}
+
+.heat {
+	color: #7bccc4;
+	font-weight: bold;
+}
+
+.hurricanes {
+	color: #994cff;
+	font-weight: bold;
+}
+
+.scorchers {
+	color: #ec7014;
+	font-weight: bold;
+}

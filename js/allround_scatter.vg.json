@@ -26,7 +26,7 @@
       "color":{
         "field":"rank",
         "type":"quantitative",
-        "sort":"descending",
+        "sort":"ascending",
         "legend":null,
         "scale":{
             "scheme":"blues"

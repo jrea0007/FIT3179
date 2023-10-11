@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 500,
-    "height": 350,
+    "width": 580,
+    "height": 450,
     "title": "Runs Per Match: State By State",
     "projection": {"type": "equirectangular"},
         "data": {
@@ -26,7 +26,7 @@
           "color": {
             "field": "RunsPerGame",
             "type": "quantitative",
-            "scale": {"scheme": "greens"},
+            "scale": {"scheme": "blues"},
             "title": "Runs Per Match"
           },
           "tooltip": [

@@ -57,7 +57,7 @@
       {"field": "player", "type":"nominal", "title": "Player" },
       {"field": "value", "type":"quantitative","title": "Value"}
     ],
-    "color":{"value":"#ffffff"}
+    "color":{"value":"#deebf7"}
   }
 
 },
@@ -72,7 +72,7 @@
   "baseline": "line-top"},
   "encoding": {
     "text": {"value":["Chris Lynn, Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
-    "color": {"value": "#9ecae1"},
+    "color": {"value": "#1c9099"},
     "opacity": {
       "condition": {
         "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '6shit' || Stat_Selection == 'totalruns') ",
@@ -93,7 +93,7 @@
 
   "encoding": {
     "text": {"value":["Chris Lynn, Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
-    "color": {"value": "#9ecae1"},
+    "color": {"value": "#1c9099"},
     "opacity": {
       "condition": {
         "test": "datum['player'] == 'CA Lynn' && (Stat_Selection == '4shit')",
@@ -164,7 +164,7 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 60,
+    "dx": 70,
     "dy": -125,
     "fontSize": 10,
     "fontStyle": "italic",
@@ -183,7 +183,7 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": 50,
+    "dx": 60,
     "dy": -35,
     "fontSize": 10,
     "fontStyle": "italic",
@@ -203,7 +203,7 @@
   {"mark":{
     "type": "text",
     "align": "right",
-    "dx": -40,
+    "dx": -33,
     "dy": 95,
     "fontSize": 10,
     "fontStyle": "italic",
@@ -230,7 +230,7 @@
     "baseline": "line-top"},
     "encoding": {
           "text": {"value":["Ben Laughlin, Most Wickets in BBL History"]},
-          "color": {"value": "#253494"},
+          "color": {"value": "#1c9099"},
           "opacity": {
             "condition": {
               "test": "datum['player'] == 'B Laughlin' && (Stat_Selection == 'totalwickets')",

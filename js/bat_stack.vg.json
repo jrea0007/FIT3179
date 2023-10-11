@@ -20,7 +20,8 @@
       "batting_2",
       "batting_1"
     ],
-    "as":["key","value"]}],
+    "as":["key","value"]},
+    {"calculate": "if(datum.key == 'batting_1', '1s', if(datum.key == 'batting_2', '2s', if(datum.key == 'batting_3', '3s', if(datum.key=='batting_4', '4s', '6s'))))","as":"key"}],
   "layer":[
   {"mark": "bar",
   "encoding": {
@@ -42,19 +43,23 @@
       "scale":{"scheme":"blues"},
       "legend": {
         "orient": "right",
-        "offset":5,
-        "labelExpr": "datum.label == 'batting_1' ? '1s' : datum.label == 'batting_2' ? '2s' :datum.label == 'batting_3' ? '3s' : datum.label == 'batting_4' ? '4s' : datum.label == 'batting_5' ? '5s': datum.label == 'batting_6' ? '6s': ''"
-      }}}},
+        "offset":5
+        }},
+    "tooltip":[
+      {"field":"player","title":"Player"},
+      {"field":"key","title":"Run Type"},
+      {"field":"value","title":"Runs Scored"}
+    ]}},
   {"mark":{
   "type": "text",
   "align": "right",
-  "dx": 100,
+  "dx": -50,
   "dy": -150,
   "fontSize": 13,
   "fontWeight":"bold",
   "baseline": "line-top"},
   "encoding": {
-    "text": {"value":["Chris Lynn: Most Runs, Most 6s and","2nd Most 4s in BBL History"]},
+    "text": {"value":["Chris Lynn"]},
     "color": {"value": "#7bccc4"},
     "opacity": {
       

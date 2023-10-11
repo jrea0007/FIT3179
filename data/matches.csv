@@ -1,415 +1,415 @@
-id,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,eliminator,method,umpire1,umpire2,lat,long
-524917,Adelaide,18/12/2011,M Klinger,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Adelaide Strikers,runs,67,N,NA,AJ Barrow,BNJ Oxenford,-34.91526994,138.5960395
-524924,Adelaide,28/12/2011,XJ Doherty,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,14,N,NA,GC Joshua,JD Ward,-34.91526994,138.5960395
-524936,Adelaide,10/01/2012,SNJ O'Keefe,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,64,N,NA,AJ Barrow,MD Martell,-34.91526994,138.5960395
-571237,Adelaide,13/12/2012,LA Pomersbach,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,3,N,NA,DB Mealey,P Wilson,-34.91526994,138.5960395
-571247,Adelaide,23/12/2012,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Adelaide Strikers,wickets,9,N,NA,SD Fry,SJ Nogajski,-34.91526994,138.5960395
-571249,Adelaide,27/12/2012,BJ Hodge,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,8,N,NA,GC Joshua,IH Lock,-34.91526994,138.5960395
-571262,Adelaide,10/01/2013,SE Marsh,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,98,N,NA,MD Martell,P Wilson,-34.91526994,138.5960395
-654061,Adelaide,5/01/2014,MJ Lumb,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers,wickets,6,N,NA,SD Fry,SJ Nogajski,-34.91526994,138.5960395
-654081,Adelaide,18/01/2014,DL Vettori,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,32,N,NA,SJ Nogajski,P Wilson,-34.91526994,138.5960395
-654087,Adelaide,22/01/2014,DJ Bravo,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,1,N,NA,DB Mealey,AP Ward,-34.91526994,138.5960395
-756735,Adelaide,18/12/2014,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers,wickets,8,N,NA,MW Graham-Smith,JD Ward,-34.91526994,138.5960395
-756757,Adelaide,31/12/2014,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers,wickets,8,N,NA,GJ Davidson,MD Martell,-34.91526994,138.5960395
-756769,Adelaide,6/01/2015,GB Hogg,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Perth Scorchers,runs,18,N,NA,GC Joshua,DB Mealey,-34.91526994,138.5960395
-756783,Adelaide,12/01/2015,NA,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,NA,NA,NA,NA,NA,SD Fry,BNJ Oxenford,-34.91526994,138.5960395
-756799,Adelaide,24/01/2015,NJ Maddinson,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,87,N,NA,GA Abood,MD Martell,-34.91526994,138.5960395
-897697,Adelaide,18/12/2015,AI Ross,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,19,N,NA,GA Abood,MW Graham-Smith,-34.91526994,138.5960395
-897721,Adelaide,31/12/2015,TM Head,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,SD Fry,P Wilson,-34.91526994,138.5960395
-897733,Adelaide,5/01/2016,TM Head,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,bat,Adelaide Strikers,runs,36,N,NA,SAJ Craig,GJ Davidson,-34.91526994,138.5960395
-897749,Adelaide,13/01/2016,AU Rashid,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers,wickets,6,N,NA,SAJ Craig,P Wilson,-34.91526994,138.5960395
-897759,Adelaide,21/01/2016,UT Khawaja,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Sydney Thunder,wickets,8,N,NA,GA Abood,SD Fry,-34.91526994,138.5960395
-1023583,Adelaide,21/12/2016,BB McCullum,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,field,Brisbane Heat,runs,10,N,NA,SAJ Craig,SJ Nogajski,-34.91526994,138.5960395
-1023601,Adelaide,31/12/2016,SA Abbott,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Adelaide Strikers,runs,48,N,NA,AJ Barrow,GJ Davidson,-34.91526994,138.5960395
-1023615,Adelaide,6/01/2017,BR Dunk,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,SD Fry,MW Graham-Smith,-34.91526994,138.5960395
-1023633,Adelaide,16/01/2017,MS Harris,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,field,Melbourne Renegades,runs,6,N,NA,JD Ward,AK Wilds,-34.91526994,138.5960395
-1114859,Adelaide,22/12/2017,Rashid Khan,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,53,N,NA,GJ Davidson,SA Lightbody,-34.91526994,138.5960395
-1114867,Adelaide,31/12/2017,MG Neser,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers,runs,56,N,NA,GC Joshua,MW Graham-Smith,-34.91526994,138.5960395
-1114878,Adelaide,9/01/2018,TM Head,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers,wickets,8,N,NA,PJ Gillespie,AK Wilds,-34.91526994,138.5960395
-1114886,Adelaide,17/01/2018,AT Carey,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers,runs,11,N,NA,GJ Davidson,SA Lightbody,-34.91526994,138.5960395
-1114897,Adelaide,2/02/2018,TM Head,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,1,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
-1114898,Adelaide,4/02/2018,J Weatherald,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers,runs,25,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
-1152516,Adelaide,23/12/2018,DT Christian,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,GC Joshua,SD Fry,-34.91526994,138.5960395
-1152524,Adelaide,31/12/2018,PM Siddle,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,20,N,NA,GJ Davidson,GA Abood,-34.91526994,138.5960395
-1152532,Adelaide,6/01/2019,JL Denly,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers,wickets,6,N,NA,MW Graham-Smith,GA Abood,-34.91526994,138.5960395
-1152537,Adelaide,11/01/2019,CA Ingram,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,41,N,NA,JD Ward,AK Wilds,-34.91526994,138.5960395
-1152547,Adelaide,21/01/2019,MS Wade,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes,wickets,10,N,NA,P Wilson,SA Lightbody,-34.91526994,138.5960395
-1152560,Adelaide,3/02/2019,MT Renshaw,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,PJ Gillespie,MW Graham-Smith,-34.91526994,138.5960395
-1152564,Adelaide,9/02/2019,JW Wells,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Adelaide Strikers,wickets,5,N,NA,DJ Shepard,JD Ward,-34.91526994,138.5960395
-1195582,Adelaide,23/12/2019,J Weatherald,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers,runs,15,N,D/L,GC Joshua,AK Wilds,-34.91526994,138.5960395
-1195589,Adelaide,31/12/2019,CJ Ferguson,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,3,N,NA,JD Ward,SAJ Craig,-34.91526994,138.5960395
-1195599,Adelaide,8/01/2020,TK Curran,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,2,N,NA,SD Fry,MW Graham-Smith,-34.91526994,138.5960395
-1195605,Adelaide,12/01/2020,JW Wells,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,63,N,NA,GA Abood,SAJ Craig,-34.91526994,138.5960395
-1195612,Adelaide,17/01/2020,LN O'Connor,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Adelaide Strikers,wickets,10,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
-1195620,Adelaide,22/01/2020,JW Wells,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,11,N,NA,GJ Davidson,DM Koch,-34.91526994,138.5960395
-1195627,Adelaide,26/01/2020,MS Wade,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,10,N,NA,MW Graham-Smith,GC Joshua,-34.91526994,138.5960395
-1195631,Adelaide,1/02/2020,AD Hales,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,field,Sydney Thunder,runs,8,N,NA,P Wilson,SAJ Craig,-34.91526994,138.5960395
-1226826,Adelaide,8/01/2021,Mohammad Nabi,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Melbourne Renegades,wickets,6,N,NA,DR Close,D Taylor,-34.91526994,138.5960395
-1226833,Adelaide,5/01/2021,RJ Gibson,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,60,N,NA,DR Close,SJ Nogajski,-34.91526994,138.5960395
-1226836,Adelaide,25/01/2021,AD Hales,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,9,N,NA,GA Abood,GJ Davidson,-34.91526994,138.5960395
-1226845,Adelaide,28/12/2020,Rashid Khan,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers,runs,71,N,NA,DR Close,SJ Nogajski,-34.91526994,138.5960395
-1226847,Adelaide,24/01/2021,PM Siddle,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,6,N,NA,GA Abood,AK Wilds,-34.91526994,138.5960395
-1226859,Adelaide,21/01/2021,AT Carey,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers,runs,82,N,NA,GA Abood,GJ Davidson,-34.91526994,138.5960395
-1226862,Adelaide,26/01/2021,M Labuschagne,Adelaide Oval,0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat,runs,6,N,NA,GJ Davidson,AK Wilds,-34.91526994,138.5960395
-1226870,Adelaide,31/12/2020,JA Richardson,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,DR Close,MW Graham-Smith,-34.91526994,138.5960395
-1226876,Adelaide,11/01/2021,WA Agar,Adelaide Oval,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Adelaide Strikers,wickets,5,N,NA,D Taylor,SJ Nogajski,-34.91526994,138.5960395
-1226880,Adelaide,22/01/2021,AD Hales,Adelaide Oval,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder,runs,46,N,NA,GJ Davidson,AK Wilds,-34.91526994,138.5960395
-1114882,Alice Springs,13/01/2018,AC Agar,Traeger Park,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,JD Ward,DM Koch,-23.70883566,133.8749553
-1195576,Alice Springs,20/12/2019,Qais Ahmad,Traeger Park,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,25,N,NA,DR Close,AK Wilds,-23.70883566,133.8749553
-1226832,Brisbane,2/01/2021,MT Steketee,Brisbane Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,bat,Brisbane Heat,wickets,4,N,NA,GJ Davidson,PJ Gillespie,-27.48568531,153.0379673
-1226851,Brisbane,4/01/2021,JA Burns,Brisbane Cricket Ground,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat,wickets,5,N,NA,PJ Gillespie,AK Wilds,-27.48568531,153.0379673
-1226868,Brisbane,27/12/2020,L Gregory,Brisbane Cricket Ground,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,4,N,NA,SJ Nogajski,AK Wilds,-27.48568531,153.0379673
-1226875,Brisbane,30/12/2020,Mujeeb Ur Rahman,Brisbane Cricket Ground,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Hobart Hurricanes,runs,1,N,NA,DM Koch,AK Wilds,-27.48568531,153.0379673
-1226881,Brisbane,23/12/2020,JJ Peirson,Brisbane Cricket Ground,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Adelaide Strikers,runs,2,N,NA,D Taylor,AK Wilds,-27.48568531,153.0379673
-1226883,Brisbane,29/01/2021,JJ Peirson,Brisbane Cricket Ground,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Brisbane Heat,wickets,6,N,NA,DM Koch,MW Graham-Smith,-27.48568531,153.0379673
-524919,Brisbane,20/12/2011,RJ Quiney,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,8,N,NA,IH Lock,PR Reiffel,-27.48568531,153.0379673
-524939,Brisbane,17/01/2012,DT Christian,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Brisbane Heat,runs,91,N,NA,SD Fry,JD Ward,-27.48568531,153.0379673
-571234,Brisbane,9/12/2012,TR Birt,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes,wickets,8,N,NA,SJ Davis,DB Mealey,-27.48568531,153.0379673
-571241,Brisbane,18/12/2012,NM Coulter-Nile,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,9,N,D/L,DB Mealey,PR Reiffel,-27.48568531,153.0379673
-571259,Brisbane,7/01/2013,MJ Lumb,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Sydney Sixers,wickets,5,N,NA,DB Mealey,BNJ Oxenford,-27.48568531,153.0379673
-654037,Brisbane,22/12/2013,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Brisbane Heat,wickets,3,N,NA,IH Lock,DB Mealey,-27.48568531,153.0379673
-654043,Brisbane,28/12/2013,BR Dunk,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes,wickets,3,N,NA,GA Abood,DB Mealey,-27.48568531,153.0379673
-654055,Brisbane,2/01/2014,B Lee,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Brisbane Heat,field,Sydney Sixers,runs,4,N,NA,AJ Barrow,JD Ward,-27.48568531,153.0379673
-654073,Brisbane,11/01/2014,LJ Wright,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Brisbane Heat,bat,Melbourne Stars,wickets,3,N,NA,AJ Barrow,P Wilson,-27.48568531,153.0379673
-756751,Brisbane,28/12/2014,RM Duffield,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,1,N,NA,MW Graham-Smith,DB Mealey,-27.48568531,153.0379673
-756765,Brisbane,4/01/2015,TM Head,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,AJ Barrow,JD Ward,-27.48568531,153.0379673
-756781,Brisbane,11/01/2015,DE Bollinger,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,6,N,NA,DB Mealey,P Wilson,-27.48568531,153.0379673
-756797,Brisbane,15/01/2015,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat,runs,18,N,NA,GA Abood,P Wilson,-27.48568531,153.0379673
-897699,Brisbane,19/12/2015,AJ Finch,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Melbourne Renegades,wickets,7,N,NA,AJ Barrow,SJ Nogajski,-27.48568531,153.0379673
-897717,Brisbane,29/12/2015,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,15,N,NA,AJ Barrow,SD Fry,-27.48568531,153.0379673
-897729,Brisbane,3/01/2016,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,SD Fry,MW Graham-Smith,-27.48568531,153.0379673
-897739,Brisbane,8/01/2016,DPMD Jayawardene,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,8,N,NA,AJ Barrow,PJ Gillespie,-27.48568531,153.0379673
-1023599,Brisbane,30/12/2016,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Brisbane Heat,wickets,7,N,NA,JD Ward,P Wilson,-27.48568531,153.0379673
-1023609,Brisbane,3/01/2017,DP Hughes,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,AJ Barrow,MD Martell,-27.48568531,153.0379673
-1023625,Brisbane,11/01/2017,M Klinger,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Perth Scorchers,runs,27,N,NA,SD Fry,MW Graham-Smith,-27.48568531,153.0379673
-1023639,Brisbane,20/01/2017,AJ Finch,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,1,N,NA,SAJ Craig,SJ Nogajski,-27.48568531,153.0379673
-1023647,Brisbane,25/01/2017,MC Henriques,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,tie,NA,Y,NA,GA Abood,GC Joshua,-27.48568531,153.0379673
-1114857,Brisbane,20/12/2017,MP Stoinis,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,15,N,NA,JD Ward,SAJ Craig,-27.48568531,153.0379673
-1114863,Brisbane,27/12/2017,AI Ross,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Brisbane Heat,wickets,6,N,D/L,GA Abood,AK Wilds,-27.48568531,153.0379673
-1114873,Brisbane,5/01/2018,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat,runs,49,N,NA,PJ Gillespie,AK Wilds,-27.48568531,153.0379673
-1114879,Brisbane,10/01/2018,DJM Short,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,3,N,NA,Geoff Davidson,SD Fry,-27.48568531,153.0379673
-1114895,Brisbane,27/01/2018,TLW Cooper,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,26,N,NA,GC Joshua,MW Graham-Smith,-27.48568531,153.0379673
-1152511,Brisbane,19/12/2018,Rashid Khan,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,P Wilson,SD Fry,-27.48568531,153.0379673
-1152536,Brisbane,10/01/2019,SB Harper,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,GC Joshua,SA Lightbody,-27.48568531,153.0379673
-1152543,Brisbane,17/01/2019,NA,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,NA,NA,NA,NA,NA,SAJ Craig,DM Koch,-27.48568531,153.0379673
-1152558,Brisbane,1/02/2019,Mujeeb Ur Rahman,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,GJ Davidson,DM Koch,-27.48568531,153.0379673
-1152563,Brisbane,8/02/2019,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Brisbane Heat,wickets,10,N,NA,GJ Davidson,AK Wilds,-27.48568531,153.0379673
-1195573,Brisbane,17/12/2019,CJ Ferguson,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,29,N,NA,GA Abood,SJ Nogajski,-27.48568531,153.0379673
-1195601,Brisbane,9/01/2020,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Brisbane Heat,wickets,5,N,NA,GA Abood,SAJ Craig,-27.48568531,153.0379673
-1195608,Brisbane,14/01/2020,JL Pattinson,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,Brisbane Heat,wickets,7,N,NA,P Wilson,AK Wilds,-27.48568531,153.0379673
-1195616,Brisbane,19/01/2020,CJ Boyce,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,44,N,NA,GJ Davidson,SA Lightbody,-27.48568531,153.0379673
-1195621,Brisbane,23/01/2020,SNJ O'Keefe,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,PJ Gillespie,GC Joshua,-27.48568531,153.0379673
-756803,Canberra,28/01/2015,SE Marsh,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers,wickets,4,N,NA,MD Martell,P Wilson,-35.3178266,149.1346405
-1114892,Canberra,24/01/2018,KW Richardson,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades,runs,9,N,NA,JD Ward,SAJ Craig,-35.3178266,149.1346405
-1152513,Canberra,21/12/2018,DR Sams,Manuka Oval,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder,runs,15,N,D/L,SA Lightbody,AK Wilds,-35.3178266,149.1346405
-1152565,Canberra,9/02/2019,PJ Cummins,Manuka Oval,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder,wickets,4,N,D/L,P Wilson,SA Lightbody,-35.3178266,149.1346405
-1195578,Canberra,21/12/2019,NA,Manuka Oval,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,NA,NA,NA,NA,NA,P Wilson,SJ Nogajski,-35.3178266,149.1346405
-1195609,Canberra,15/01/2020,SB Harper,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,12,N,D/L,SD Fry,DM Koch,-35.3178266,149.1346405
-1226828,Canberra,12/12/2020,A Zampa,Manuka Oval,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,22,N,NA,GJ Davidson,PJ Gillespie,-35.3178266,149.1346405
-1226831,Canberra,22/12/2020,CJ Ferguson,Manuka Oval,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,7,N,NA,DM Koch,SA Lightbody,-35.3178266,149.1346405
-1226840,Canberra,18/01/2021,BR McDermott,Manuka Oval,0,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,GJ Davidson,AK Wilds,-35.3178266,149.1346405
-1226843,Canberra,14/01/2021,JA Burns,Manuka Oval,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,5,N,NA,GA Abood,GJ Davidson,-35.3178266,149.1346405
-1226854,Canberra,29/12/2020,AD Hales,Manuka Oval,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder,runs,75,N,NA,DM Koch,SA Lightbody,-35.3178266,149.1346405
-1226861,Canberra,13/01/2021,SNJ O'Keefe,Manuka Oval,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,D/L,GA Abood,AK Wilds,-35.3178266,149.1346405
-1226865,Canberra,16/01/2021,JR Philippe,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,7,N,NA,GA Abood,AK Wilds,-35.3178266,149.1346405
-1226866,Canberra,14/12/2020,DR Sams,Manuka Oval,0,Brisbane Heat,Sydney Thunder,Brisbane Heat,bat,Sydney Thunder,wickets,4,N,NA,GJ Davidson,SAJ Craig,-35.3178266,149.1346405
-1226872,Canberra,11/12/2020,NM Coulter-Nile,Manuka Oval,0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,PJ Gillespie,SAJ Craig,-35.3178266,149.1346405
-1226874,Canberra,26/12/2020,O Davies,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder,runs,129,N,NA,DM Koch,NR Johnstone,-35.3178266,149.1346405
-1226884,Canberra,30/01/2021,JM Vince,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,9,N,NA,P Wilson,SJ Nogajski,-35.3178266,149.1346405
-1226885,Canberra,31/01/2021,SD Heazlett,Manuka Oval,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,7,N,NA,DM Koch,MW Graham-Smith,-35.3178266,149.1346405
-1226886,Canberra,4/02/2021,LS Livingstone,Manuka Oval,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers,runs,49,N,D/L,GA Abood,SAJ Craig,-35.3178266,149.1346405
-1152515,Carrara,22/12/2018,DJM Short,Carrara Oval,0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Hobart Hurricanes,runs,15,N,NA,PJ Gillespie,JD Ward,-28.00442584,153.3663714
-1152525,Carrara,1/01/2019,CA Lynn,Carrara Oval,0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,DM Koch,-28.00442584,153.3663714
-1152530,Carrara,5/01/2019,MP Stoinis,Carrara Oval,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,bat,Melbourne Stars,wickets,8,N,NA,GJ Davidson,GC Joshua,-28.00442584,153.3663714
-1195577,Carrara,20/12/2019,GJ Maxwell,Carrara Oval,0,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Melbourne Stars,runs,22,N,NA,JD Ward,SA Lightbody,-28.00442584,153.3663714
-1195585,Carrara,27/12/2019,JW Wells,Carrara Oval,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Strikers,runs,5,N,NA,SAJ Craig,SJ Nogajski,-28.00442584,153.3663714
-1195590,Carrara,1/01/2020,Fawad Ahmed,Carrara Oval,0,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,40,N,NA,AK Wilds,DM Koch,-28.00442584,153.3663714
-1226835,Carrara,7/01/2021,CA Lynn,Carrara Oval,0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,17,N,D/L,GA Abood,PJ Gillespie,-28.00442584,153.3663714
-1226842,Carrara,3/01/2021,JR Philippe,Carrara Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,GJ Davidson,AK Wilds,-28.00442584,153.3663714
-1226846,Carrara,26/12/2020,DP Hughes,Carrara Oval,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,1,N,NA,PJ Gillespie,SJ Nogajski,-28.00442584,153.3663714
-1226855,Carrara,10/01/2021,DT Christian,Carrara Oval,0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,GJ Davidson,AK Wilds,-28.00442584,153.3663714
-1226856,Carrara,1/01/2021,AD Hales,Carrara Oval,0,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,runs,7,N,D/L,D Taylor,PJ Gillespie,-28.00442584,153.3663714
-1226877,Carrara,29/12/2020,JO Holder,Carrara Oval,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers,wickets,2,N,NA,PJ Gillespie,AK Wilds,-28.00442584,153.3663714
-1195595,Coffs Harbour,5/01/2020,JR Philippe,International Sports Stadium,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Sydney Sixers,wickets,7,N,NA,GC Joshua,DM Koch,-30.32184249,153.0951758
-1152539,Geelong,13/01/2019,M Bryant,Geelong Cricket Ground,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Brisbane Heat,runs,101,N,NA,PJ Gillespie,SAJ Craig,-38.15595314,144.35423
-1114871,Geelong,3/01/2018,AJ Finch,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,GJ Davidson,SD Fry,-38.15595314,144.35423
-1152528,Geelong,3/01/2019,J Weatherald,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,32,N,NA,MW Graham-Smith,GA Abood,-38.15595314,144.35423
-1195575,Geelong,19/12/2019,AD Hales,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder,wickets,6,N,NA,GJ Davidson,DM Koch,-38.15595314,144.35423
-1195598,Geelong,7/01/2020,LS Livingstone,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,NR Johnstone,P Wilson,-38.15595314,144.35423
-524920,Hobart,21/12/2011,TR Birt,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,42,N,NA,SD Fry,GC Joshua,-42.87719409,147.3739162
-524927,Hobart,1/01/2012,Naved-ul-Hasan,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Hobart Hurricanes,wickets,5,N,NA,IH Lock,RL Parry,-42.87719409,147.3739162
-524935,Hobart,9/01/2012,LJ Wright,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,19,N,NA,GC Joshua,JD Ward,-42.87719409,147.3739162
-524940,Hobart,18/01/2012,OA Shah,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes,wickets,7,N,NA,GA Abood,AJ Barrow,-42.87719409,147.3739162
-524944,Hobart,22/01/2012,NJ Maddinson,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,7,N,NA,MD Martell,PR Reiffel,-42.87719409,147.3739162
-654035,Hobart,22/12/2013,NA,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,NA,NA,NA,NA,NA,MD Martell,SJ Nogajski,-42.87719409,147.3739162
-654051,Hobart,1/01/2014,JL Pattinson,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,51,N,NA,GC Joshua,IH Lock,-42.87719409,147.3739162
-654071,Hobart,11/01/2014,BR Dunk,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes,runs,73,N,NA,DB Mealey,SJ Nogajski,-42.87719409,147.3739162
-654089,Hobart,23/01/2014,BR Dunk,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes,runs,40,N,NA,GA Abood,IH Lock,-42.87719409,147.3739162
-756745,Hobart,23/12/2014,MC Henriques,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Sydney Sixers,wickets,7,N,NA,MW Graham-Smith,P Wilson,-42.87719409,147.3739162
-756761,Hobart,2/01/2015,TD Paine,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,AJ Barrow,JD Ward,-42.87719409,147.3739162
-756779,Hobart,11/01/2015,JP Behrendorff,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,18,N,NA,AJ Barrow,MW Graham-Smith,-42.87719409,147.3739162
-756789,Hobart,7/01/2015,BA Stokes,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,field,Melbourne Renegades,runs,37,N,NA,SAJ Craig,JD Ward,-42.87719409,147.3739162
-897707,Hobart,22/12/2015,TD Paine,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes,runs,20,N,NA,GJ Davidson,MW Graham-Smith,-42.87719409,147.3739162
-897723,Hobart,1/01/2016,SW Tait,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Hobart Hurricanes,runs,11,N,NA,PJ Gillespie,GC Joshua,-42.87719409,147.3739162
-897731,Hobart,4/01/2016,CP Tremain,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,SJ Nogajski,P Wilson,-42.87719409,147.3739162
-897743,Hobart,10/01/2016,MA Carberry,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,1,N,NA,AJ Barrow,P Wilson,-42.87719409,147.3739162
-1023591,Hobart,26/12/2016,RJ Quiney,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,bat,Melbourne Stars,wickets,7,N,NA,GC Joshua,P Wilson,-42.87719409,147.3739162
-1023607,Hobart,2/01/2017,DT Christian,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,8,N,NA,PJ Gillespie,JD Ward,-42.87719409,147.3739162
-1023619,Hobart,8/01/2017,SR Watson,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,GJ Davidson,MD Martell,-42.87719409,147.3739162
-1023641,Hobart,21/01/2017,SE Marsh,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GA Abood,MW Graham-Smith,-42.87719409,147.3739162
-1114858,Hobart,21/12/2017,DJ Bravo,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,SJ Nogajski,MW Graham-Smith,-42.87719409,147.3739162
-1114872,Hobart,4/01/2018,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,7,N,NA,GC Joshua,SJ Nogajski,-42.87719409,147.3739162
-1114876,Hobart,8/01/2018,SW Billings,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,5,N,NA,SAJ Craig,DM Koch,-42.87719409,147.3739162
-1114884,Hobart,15/01/2018,DT Christian,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,bat,Hobart Hurricanes,wickets,6,N,NA,GA Abood,AK Wilds,-42.87719409,147.3739162
-1152517,Hobart,24/12/2018,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,SAJ Craig,SJ Nogajski,-42.87719409,147.3739162
-1152521,Hobart,28/12/2018,MS Wade,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Hobart Hurricanes,wickets,7,N,NA,SD Fry,MW Graham-Smith,-42.87719409,147.3739162
-1152529,Hobart,4/01/2019,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,5,N,NA,JD Ward,SA Lightbody,-42.87719409,147.3739162
-1152554,Hobart,29/01/2019,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes,wickets,9,N,NA,JD Ward,SJ Nogajski,-42.87719409,147.3739162
-1152562,Hobart,7/02/2019,MS Wade,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Hobart Hurricanes,runs,16,N,NA,GC Joshua,SAJ Craig,-42.87719409,147.3739162
-1152567,Hobart,14/02/2019,DJ Worrall,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,SAJ Craig,SJ Nogajski,-42.87719409,147.3739162
-1195583,Hobart,24/12/2019,RP Meredith,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes,wickets,7,N,NA,SJ Nogajski,MW Graham-Smith,-42.87719409,147.3739162
-1195593,Hobart,3/01/2020,CA Lynn,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Brisbane Heat,runs,31,N,NA,DR Close,SJ Nogajski,-42.87719409,147.3739162
-1195607,Hobart,13/01/2020,JP Inglis,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Perth Scorchers,runs,77,N,NA,GJ Davidson,SA Lightbody,-42.87719409,147.3739162
-1195622,Hobart,24/01/2020,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes,runs,57,N,NA,GA Abood,SA Lightbody,-42.87719409,147.3739162
-1195629,Hobart,30/01/2020,JD Cook,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,57,N,NA,P Wilson,SAJ Craig,-42.87719409,147.3739162
-1226830,Hobart,19/12/2020,BR McDermott,Bellerive Oval,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,DR Close,P Wilson,-42.87719409,147.3739162
-1226837,Hobart,13/12/2020,JR Philippe,Bellerive Oval,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Sydney Sixers,runs,145,N,NA,DM Koch,MW Graham-Smith,-42.87719409,147.3739162
-1226841,Hobart,12/12/2020,JK Lalor,Bellerive Oval,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Melbourne Renegades,wickets,7,N,NA,DM Koch,MW Graham-Smith,-42.87719409,147.3739162
-1226844,Hobart,2/01/2021,SM Boland,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Hobart Hurricanes,runs,21,N,NA,GA Abood,NR Johnstone,-42.87719409,147.3739162
-1226850,Hobart,13/12/2020,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Hobart Hurricanes,runs,11,N,NA,DR Close,NR Johnstone,-42.87719409,147.3739162
-1226852,Hobart,10/12/2020,TH David,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes,runs,16,N,NA,P Wilson,SJ Nogajski,-42.87719409,147.3739162
-1226873,Hobart,20/12/2020,DT Christian,Bellerive Oval,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Sydney Sixers,runs,38,N,NA,MW Graham-Smith,SJ Nogajski,-42.87719409,147.3739162
-1226879,Hobart,4/01/2021,MP Stoinis,Bellerive Oval,0,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars,runs,10,N,NA,GA Abood,NR Johnstone,-42.87719409,147.3739162
-1114866,Launceston,30/12/2017,JC Buttler,Aurora Stadium,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Sydney Thunder,runs,57,N,NA,GJ Davidson,SD Fry,-41.42592634,147.1390115
-1152523,Launceston,30/12/2018,RP Meredith,Aurora Stadium,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,AK Wilds,MW Graham-Smith,-41.42592634,147.1390115
-1152557,Launceston,31/01/2019,J Weatherald,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,7,N,NA,JD Ward,SA Lightbody,-41.42592634,147.1390115
-1195588,Launceston,30/12/2019,NM Coulter-Nile,Aurora Stadium,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,runs,4,N,D/L,PJ Gillespie,AK Wilds,-41.42592634,147.1390115
-1195615,Launceston,19/01/2020,TM Head,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Adelaide Strikers,runs,10,N,NA,JD Ward,SD Fry,-41.42592634,147.1390115
-1226863,Launceston,15/12/2020,PM Siddle,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,DM Koch,P Wilson,-41.42592634,147.1390115
-1226867,Launceston,16/12/2020,NA,Aurora Stadium,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,NA,NA,NA,NA,NA,MW Graham-Smith,SJ Nogajski,-41.42592634,147.1390115
-524921,Melbourne,22/12/2011,SE Marsh,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,bat,Perth Scorchers,wickets,8,N,NA,GA Abood,RL Parry,-37.81385247,144.9474603
-524928,Melbourne,2/01/2012,AB McDonald,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Sydney Sixers,bat,Melbourne Renegades,wickets,8,N,NA,MD Martell,PR Reiffel,-37.81385247,144.9474603
-524938,Melbourne,12/01/2012,DL Vettori,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,12,N,NA,IH Lock,AP Ward,-37.81385247,144.9474603
-571232,Melbourne,7/12/2012,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,bat,Melbourne Renegades,wickets,8,N,NA,SD Fry,PR Reiffel,-37.81385247,144.9474603
-571242,Melbourne,19/12/2012,MN Samuels,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,SJ Nogajski,JD Ward,-37.81385247,144.9474603
-571245,Melbourne,22/12/2012,BCJ Cutting,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades,wickets,6,N,NA,GA Abood,BNJ Oxenford,-37.81385247,144.9474603
-571254,Melbourne,2/01/2013,M Muralitharan,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,field,Melbourne Renegades,runs,48,N,NA,SJ Nogajski,P Wilson,-37.81385247,144.9474603
-571264,Melbourne,4/02/2013,LA Pomersbach,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,15,N,NA,JD Ward,P Wilson,-37.81385247,144.9474603
-654047,Melbourne,30/12/2013,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,bat,Melbourne Renegades,runs,57,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
-654059,Melbourne,4/01/2014,CL White,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars,wickets,9,N,NA,AJ Barrow,AP Ward,-37.81385247,144.9474603
-654075,Melbourne,14/01/2014,GS Sandhu,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder,wickets,9,N,NA,GC Joshua,AP Ward,-37.81385247,144.9474603
-654083,Melbourne,18/01/2014,MC Henriques,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers,runs,2,N,NA,DB Mealey,AP Ward,-37.81385247,144.9474603
-756755,Melbourne,30/12/2014,JL Pattinson,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,AJ Barrow,RJ Tucker,-37.81385247,144.9474603
-756763,Melbourne,3/01/2015,MA Beer,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,112,N,NA,GC Joshua,P Wilson,-37.81385247,144.9474603
-756785,Melbourne,13/01/2015,Shakib Al Hasan,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,GC Joshua,JD Ward,-37.81385247,144.9474603
-756793,Melbourne,19/01/2015,TM Head,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,22,N,NA,GA Abood,GJ Davidson,-37.81385247,144.9474603
-897709,Melbourne,23/12/2015,MJ Lumb,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
-897719,Melbourne,30/12/2015,M Klinger,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,10,N,NA,GA Abood,PJ Gillespie,-37.81385247,144.9474603
-897741,Melbourne,9/01/2016,MP Stoinis,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
-897757,Melbourne,18/01/2016,TM Head,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,27,N,NA,GA Abood,SAJ Craig,-37.81385247,144.9474603
-1023585,Melbourne,22/12/2016,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Melbourne Renegades,runs,49,N,NA,GA Abood,MW Graham-Smith,-37.81385247,144.9474603
-1023597,Melbourne,29/12/2016,M Klinger,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,4,N,NA,GJ Davidson,MD Martell,-37.81385247,144.9474603
-1023617,Melbourne,7/01/2017,A Zampa,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,46,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
-1023627,Melbourne,12/01/2017,BR McDermott,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,2,N,NA,PJ Gillespie,P Wilson,-37.81385247,144.9474603
-1114861,Melbourne,23/12/2017,JD Wildermuth,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,P Wilson,JD Ward,-37.81385247,144.9474603
-1114865,Melbourne,29/12/2017,MG Johnson,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,3,N,NA,PJ Gillespie,AK Wilds,-37.81385247,144.9474603
-1114881,Melbourne,12/01/2018,KP Pietersen,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,23,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
-1114890,Melbourne,22/01/2018,CA Ingram,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,26,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
-1152512,Melbourne,20/12/2018,Usman Shinwari,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Melbourne Renegades,wickets,4,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
-1152522,Melbourne,29/12/2018,BAD Manenti,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers,runs,33,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
-1152533,Melbourne,7/01/2019,SB Harper,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades,wickets,6,N,NA,P Wilson,SA Lightbody,-37.81385247,144.9474603
-1152545,Melbourne,19/01/2019,MP Stoinis,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,PJ Gillespie,GC Joshua,-37.81385247,144.9474603
-1152556,Melbourne,30/01/2019,CJ Boyce,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Melbourne Renegades,runs,27,N,NA,PJ Gillespie,GC Joshua,-37.81385247,144.9474603
-1152568,Melbourne,15/02/2019,DT Christian,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades,wickets,3,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
-1152569,Melbourne,17/02/2019,DT Christian,Docklands Stadium,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades,runs,13,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
-1195587,Melbourne,29/12/2019,Rashid Khan,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,18,N,NA,GJ Davidson,DM Koch,-37.81385247,144.9474603
-1195592,Melbourne,2/01/2020,JM Vince,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers,wickets,6,N,NA,JD Ward,SD Fry,-37.81385247,144.9474603
-1195602,Melbourne,10/01/2020,GJ Maxwell,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,SD Fry,MW Graham-Smith,-37.81385247,144.9474603
-1195619,Melbourne,21/01/2020,M Wright,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Hobart Hurricanes,runs,4,N,NA,SAJ Craig,AK Wilds,-37.81385247,144.9474603
-1195628,Melbourne,27/01/2020,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades,wickets,7,N,NA,P Wilson,PJ Gillespie,-37.81385247,144.9474603
-1226834,Melbourne,22/01/2021,JA Richardson,Docklands Stadium,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,22,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
-1226838,Melbourne,19/01/2021,C Munro,Docklands Stadium,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers,runs,59,N,NA,DR Close,MW Graham-Smith,-37.81385247,144.9474603
-1226848,Melbourne,23/01/2021,M Labuschagne,Docklands Stadium,0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Brisbane Heat,runs,26,N,NA,DM Koch,SJ Nogajski,-37.81385247,144.9474603
-1226869,Melbourne,20/01/2021,MW Harvey,Docklands Stadium,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades,wickets,5,N,NA,SJ Nogajski,SAJ Craig,-37.81385247,144.9474603
-524916,Melbourne,17/12/2011,DA Warner,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,SD Fry,P Wilson,-37.81385247,144.9474603
-524930,Melbourne,4/01/2012,HH Gibbs,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,8,N,NA,MD Martell,P Wilson,-37.81385247,144.9474603
-524942,Melbourne,19/01/2012,CJ McKay,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars,wickets,6,N,NA,IH Lock,RL Parry,-37.81385247,144.9474603
-571239,Melbourne,15/12/2012,CJ McKay,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,4,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
-571258,Melbourne,6/01/2013,AJ Finch,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades,wickets,9,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
-571260,Melbourne,8/01/2013,CH Gayle,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,13,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
-654031,Melbourne,20/12/2013,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Stars,runs,76,N,NA,SD Fry,JD Ward,-37.81385247,144.9474603
-654067,Melbourne,9/01/2014,JP Faulkner,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars,wickets,8,N,NA,MW Graham-Smith,GC Joshua,-37.81385247,144.9474603
-654085,Melbourne,21/01/2014,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,5,N,NA,IH Lock,SJ Nogajski,-37.81385247,144.9474603
-654093,Melbourne,27/01/2014,JW Hastings,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars,runs,20,N,NA,GA Abood,GC Joshua,-37.81385247,144.9474603
-654095,Melbourne,4/02/2014,CJ Boyce,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Hobart Hurricanes,wickets,7,N,NA,GA Abood,AP Ward,-37.81385247,144.9474603
-756739,Melbourne,20/12/2014,DJG Sammy,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes,runs,52,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
-756767,Melbourne,5/01/2015,JP Faulkner,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Melbourne Stars,tie,NA,Y,NA,SJ Nogajski,P Wilson,-37.81385247,144.9474603
-756777,Melbourne,10/01/2015,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Stars,wickets,3,N,NA,SAJ Craig,MD Martell,-37.81385247,144.9474603
-756795,Melbourne,21/01/2015,PSP Handscomb,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Melbourne Stars,wickets,3,N,NA,SAJ Craig,GJ Davidson,-37.81385247,144.9474603
-897725,Melbourne,2/01/2016,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,SAJ Craig,SJ Nogajski,-37.81385247,144.9474603
-897735,Melbourne,6/01/2016,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
-897751,Melbourne,14/01/2016,S Badree,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,Brisbane Heat,runs,56,N,NA,GJ Davidson,SJ Nogajski,-37.81385247,144.9474603
-897761,Melbourne,22/01/2016,KP Pietersen,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
-897763,Melbourne,24/01/2016,UT Khawaja,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,3,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
-1023603,Melbourne,1/01/2017,GB Hogg,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades,runs,7,N,D/L,SAJ Craig,GC Joshua,-37.81385247,144.9474603
-1023623,Melbourne,10/01/2017,BW Hilfenhaus,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Melbourne Stars,wickets,2,N,NA,JD Ward,P Wilson,-37.81385247,144.9474603
-1023635,Melbourne,17/01/2017,MJ Swepson,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Melbourne Stars,bat,Brisbane Heat,wickets,7,N,NA,GA Abood,MW Graham-Smith,-37.81385247,144.9474603
-1023643,Melbourne,21/01/2017,SA Abbott,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,AJ Barrow,GJ Davidson,-37.81385247,144.9474603
-1114870,Melbourne,2/01/2018,MJ Swepson,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,9,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
-1114874,Melbourne,6/01/2018,Mohammad Nabi,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,6,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
-1114885,Melbourne,16/01/2018,NM Lyon,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
-1114888,Melbourne,20/01/2018,SR Watson,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,7,N,NA,SA Lightbody,Geoff Davidson,-37.81385247,144.9474603
-1114894,Melbourne,27/01/2018,KP Pietersen,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,3,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
-1152526,Melbourne,1/01/2019,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
-1152535,Melbourne,9/01/2019,AJ Tye,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
-1152541,Melbourne,14/01/2019,DJM Short,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes,runs,59,N,NA,JD Ward,MW Graham-Smith,-37.81385247,144.9474603
-1152552,Melbourne,27/01/2019,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Melbourne Stars,runs,5,N,NA,GC Joshua,SD Fry,-37.81385247,144.9474603
-1152566,Melbourne,10/02/2019,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars,runs,94,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
-1195594,Melbourne,4/01/2020,A Zampa,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
-1195600,Melbourne,8/01/2020,Haris Rauf,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,GC Joshua,DM Koch,-37.81385247,144.9474603
-1195606,Melbourne,12/01/2020,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars,runs,44,N,NA,PJ Gillespie,DM Koch,-37.81385247,144.9474603
-1195613,Melbourne,18/01/2020,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars,runs,10,N,NA,P Wilson,DR Close,-37.81385247,144.9474603
-1195625,Melbourne,25/01/2020,AB de Villiers,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,71,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
-1195630,Melbourne,31/01/2020,SNJ O'Keefe,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Sixers,runs,43,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
-1195632,Melbourne,6/02/2020,NCR Larkin,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,28,N,NA,GA Abood,SAJ Craig,-37.81385247,144.9474603
-1226827,Melbourne,24/01/2021,MS Wade,Melbourne Cricket Ground,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes,runs,7,N,NA,DR Close,SAJ Craig,-37.81385247,144.9474603
-1226839,Melbourne,15/01/2021,ADS Fletcher,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars,runs,111,N,NA,SJ Nogajski,SAJ Craig,-37.81385247,144.9474603
-1226849,Melbourne,23/01/2021,JJ Roy,Melbourne Cricket Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,11,N,NA,MW Graham-Smith,PJ Gillespie,-37.81385247,144.9474603
-1226858,Melbourne,26/01/2021,BJ Dwarshuis,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
-1226860,Melbourne,26/01/2021,Z Evans,Melbourne Cricket Ground,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Renegades,runs,11,N,NA,DR Close,MW Graham-Smith,-37.81385247,144.9474603
-1226864,Melbourne,17/01/2021,LC Hatcher,Melbourne Cricket Ground,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars,wickets,6,N,NA,DM Koch,SAJ Craig,-37.81385247,144.9474603
-1152549,Moe,23/01/2019,BR Dunk,Ted Summerton Reserve,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars,runs,44,N,NA,PJ Gillespie,MW Graham-Smith,-38.1826645,146.2568175
-1195580,Moe,22/12/2019,Haris Rauf,Ted Summerton Reserve,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Melbourne Stars,runs,52,N,NA,GJ Davidson,DM Koch,-38.1826645,146.2568175
-1114896,Perth,1/02/2018,MS Wade,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Hobart Hurricanes,runs,71,N,NA,GA Abood,SJ Nogajski,-31.95104596,115.8890781
-1152519,Perth,26/12/2018,JA Richardson,Perth Stadium,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,PJ Gillespie,GC Joshua,-31.95104596,115.8890781
-1152531,Perth,5/01/2019,Mujeeb Ur Rahman,Perth Stadium,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,5,N,NA,PJ Gillespie,AK Wilds,-31.95104596,115.8890781
-1152540,Perth,13/01/2019,CT Bancroft,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GC Joshua,SD Fry,-31.95104596,115.8890781
-1152544,Perth,18/01/2019,GJ Bailey,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,4,N,NA,AK Wilds,MW Graham-Smith,-31.95104596,115.8890781
-1152551,Perth,24/01/2019,CJ Ferguson,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,JD Ward,SD Fry,-31.95104596,115.8890781
-1152553,Perth,28/01/2019,CP Tremain,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Melbourne Renegades,runs,78,N,NA,P Wilson,SAJ Craig,-31.95104596,115.8890781
-1152561,Perth,3/02/2019,AJ Turner,Perth Stadium,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,27,N,NA,NR Johnstone,GA Abood,-31.95104596,115.8890781
-1195579,Perth,21/12/2019,MR Marsh,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,11,N,NA,GA Abood,SAJ Craig,-31.95104596,115.8890781
-1195584,Perth,26/12/2019,TK Curran,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Sixers,runs,48,N,NA,GJ Davidson,JD Ward,-31.95104596,115.8890781
-1195596,Perth,5/01/2020,DJM Short,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,8,N,NA,JD Ward,MW Graham-Smith,-31.95104596,115.8890781
-1195604,Perth,11/01/2020,MR Marsh,Perth Stadium,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers,runs,34,N,NA,JD Ward,GC Joshua,-31.95104596,115.8890781
-1195610,Perth,15/01/2020,JR Coleman,Perth Stadium,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars,wickets,8,N,NA,NR Johnstone,GA Abood,-31.95104596,115.8890781
-1195618,Perth,20/01/2020,LS Livingstone,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,8,N,NA,PJ Gillespie,GC Joshua,-31.95104596,115.8890781
-1195623,Perth,24/01/2020,WA Agar,Perth Stadium,0,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,16,N,NA,NR Johnstone,MW Graham-Smith,-31.95104596,115.8890781
-1226829,Perth,6/01/2021,MR Marsh,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,field,Perth Scorchers,runs,86,N,NA,DM Koch,MW Graham-Smith,-31.95104596,115.8890781
-1226853,Perth,3/01/2021,JP Inglis,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,96,N,NA,MW Graham-Smith,SA Lightbody,-31.95104596,115.8890781
-1226857,Perth,12/01/2021,JJ Roy,Perth Stadium,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Perth Scorchers,wickets,9,N,NA,MW Graham-Smith,NR Johnstone,-31.95104596,115.8890781
-1226871,Perth,7/01/2021,N McAndrew,Perth Stadium,0,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Thunder,runs,39,N,NA,DM Koch,NR Johnstone,-31.95104596,115.8890781
-1226878,Perth,9/01/2021,JA Richardson,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers,runs,17,N,NA,DM Koch,MW Graham-Smith,-31.95104596,115.8890781
-1114862,Perth,26/12/2017,HWR Cartwright,W.A.C.A. Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,13,N,NA,SA Lightbody,SD Fry,-31.95963005,115.8794783
-1114869,Perth,1/01/2018,M Klinger,W.A.C.A. Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,JD Ward,DM Koch,-31.95963005,115.8794783
-1114877,Perth,8/01/2018,AJ Turner,W.A.C.A. Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Perth Scorchers,wickets,5,N,NA,SJ Nogajski,MW Graham-Smith,-31.95963005,115.8794783
-1114889,Perth,20/01/2018,AC Agar,W.A.C.A. Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Perth Scorchers,wickets,5,N,NA,SAJ Craig,DM Koch,-31.95963005,115.8794783
-1114893,Perth,25/01/2018,AC Voges,W.A.C.A. Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers,wickets,4,N,NA,GJ Davidson,SA Lightbody,-31.95963005,115.8794783
-524918,Perth,18/12/2011,BW Hilfenhaus,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,31,N,NA,GA Abood,AP Ward,-31.95963005,115.8794783
-524925,Perth,29/12/2011,MJ North,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers,runs,10,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
-524934,Perth,8/01/2012,GB Hogg,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers,runs,42,N,NA,RL Parry,AP Ward,-31.95963005,115.8794783
-524943,Perth,21/01/2012,MR Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers,runs,11,N,NA,SD Fry,JD Ward,-31.95963005,115.8794783
-524945,Perth,28/01/2012,MC Henriques,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,7,N,NA,PR Reiffel,JD Ward,-31.95963005,115.8794783
-571235,Perth,9/12/2012,PJ Hughes,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,6,N,NA,IH Lock,P Wilson,-31.95963005,115.8794783
-571236,Perth,12/12/2012,SL Malinga,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,runs,24,N,D/L,IH Lock,JD Ward,-31.95963005,115.8794783
-571251,Perth,29/12/2012,SE Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,51,N,NA,GC Joshua,MD Martell,-31.95963005,115.8794783
-571256,Perth,4/01/2013,JP Behrendorff,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,9,N,NA,DB Mealey,JD Ward,-31.95963005,115.8794783
-571265,Perth,5/02/2013,SE Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers,wickets,8,N,D/L,SD Fry,MD Martell,-31.95963005,115.8794783
-571266,Perth,19/01/2013,NM Hauritz,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,34,N,NA,SD Fry,MD Martell,-31.95963005,115.8794783
-654039,Perth,26/12/2013,Yasir Arafat,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers,runs,6,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
-654057,Perth,3/01/2014,SM Katich,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,6,N,NA,GC Joshua,DB Mealey,-31.95963005,115.8794783
-654063,Perth,7/01/2014,NM Coulter-Nile,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,6,N,NA,IH Lock,JD Ward,-31.95963005,115.8794783
-654079,Perth,16/01/2014,CJ Simmons,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers,runs,5,N,NA,AJ Barrow,IH Lock,-31.95963005,115.8794783
-654099,Perth,7/02/2014,GB Hogg,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,39,N,NA,MD Martell,JD Ward,-31.95963005,115.8794783
-756743,Perth,22/12/2014,JP Behrendorff,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,1,N,NA,AJ Barrow,GJ Davidson,-31.95963005,115.8794783
-756747,Perth,26/12/2014,M Klinger,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers,runs,35,N,NA,GA Abood,MD Martell,-31.95963005,115.8794783
-756759,Perth,1/01/2015,JH Kallis,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,20,N,NA,SAJ Craig,MW Graham-Smith,-31.95963005,115.8794783
-756773,Perth,8/01/2015,MA Carberry,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers,wickets,8,N,NA,MD Martell,SJ Nogajski,-31.95963005,115.8794783
-756801,Perth,25/01/2015,AJ Tye,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers,runs,18,N,NA,GC Joshua,SJ Nogajski,-31.95963005,115.8794783
-897705,Perth,21/12/2015,AU Rashid,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,4,N,NA,GA Abood,MD Martell,-31.95963005,115.8794783
-897711,Perth,26/12/2015,DJ Willey,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers,wickets,9,N,NA,SAJ Craig,MW Graham-Smith,-31.95963005,115.8794783
-897727,Perth,2/01/2016,DJ Willey,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers,wickets,9,N,NA,AJ Barrow,P Wilson,-31.95963005,115.8794783
-1023589,Perth,23/12/2016,AJ Turner,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Perth Scorchers,runs,48,N,NA,GJ Davidson,MD Martell,-31.95963005,115.8794783
-1023605,Perth,1/01/2017,MR Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers,runs,50,N,NA,GA Abood,MW Graham-Smith,-31.95963005,115.8794783
-1023613,Perth,5/01/2017,CA Lynn,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Brisbane Heat,wickets,9,N,NA,PJ Gillespie,JD Ward,-31.95963005,115.8794783
-1023631,Perth,14/01/2017,MA Beer,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars,wickets,7,N,NA,GC Joshua,DB Mealey,-31.95963005,115.8794783
-1023645,Perth,24/01/2017,MG Johnson,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,SAJ Craig,SJ Nogajski,-31.95963005,115.8794783
-1023649,Perth,28/01/2017,JA Richardson,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,9,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
-524922,Sydney,23/12/2011,CH Gayle,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder,wickets,6,N,NA,MD Martell,P Wilson,-33.84700867,151.0632848
-524926,Sydney,30/12/2011,Shahid Afridi,Stadium Australia,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,6,N,NA,IH Lock,AP Ward,-33.84700867,151.0632848
-524933,Sydney,8/01/2012,MA Starc,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,17,N,D/L,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
-571238,Sydney,14/12/2012,AW O'Brien,Stadium Australia,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,AJ Barrow,AP Ward,-33.84700867,151.0632848
-571243,Sydney,20/12/2012,KW Richardson,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,51,N,NA,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
-571250,Sydney,28/12/2012,DT Christian,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat,wickets,5,N,NA,SJ Davis,PR Reiffel,-33.84700867,151.0632848
-571252,Sydney,30/12/2012,DP Hughes,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,bat,Sydney Sixers,wickets,4,N,NA,GA Abood,AJ Barrow,-33.84700867,151.0632848
-654041,Sydney,27/12/2013,MEK Hussey,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,6,N,NA,SD Fry,MW Graham-Smith,-33.84700867,151.0632848
-654053,Sydney,1/01/2014,BJ Hodge,Stadium Australia,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars,wickets,7,N,NA,GA Abood,MW Graham-Smith,-33.84700867,151.0632848
-654065,Sydney,8/01/2014,CA Lynn,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,48,N,NA,SD Fry,AP Ward,-33.84700867,151.0632848
-654091,Sydney,25/01/2014,NM Lyon,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,AJ Barrow,DB Mealey,-33.84700867,151.0632848
-756741,Sydney,21/12/2014,JH Kallis,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Sydney Thunder,runs,56,N,NA,DB Mealey,JD Ward,-33.84700867,151.0632848
-756749,Sydney,27/12/2014,AC Blizzard,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Sixers,runs,16,N,NA,SJ Nogajski,P Wilson,-33.84700867,151.0632848
-524915,Sydney,16/12/2011,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Sydney Sixers,wickets,7,N,NA,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
-524923,Sydney,27/12/2011,DJ Bravo,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Sydney Sixers,runs,2,N,NA,GA Abood,BNJ Oxenford,-33.84700867,151.0632848
-524941,Sydney,18/01/2012,MA Starc,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers,runs,1,N,NA,SD Fry,P Wilson,-33.84700867,151.0632848
-571233,Sydney,8/12/2012,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,AJ Barrow,AP Ward,-33.84700867,151.0632848
-571240,Sydney,16/12/2012,MA Beer,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GA Abood,AP Ward,-33.84700867,151.0632848
-571248,Sydney,26/12/2012,RT Ponting,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,7,N,NA,SJ Davis,DB Mealey,-33.84700867,151.0632848
-654033,Sydney,21/12/2013,NJ Maddinson,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,6,N,NA,GA Abood,AJ Barrow,-33.84700867,151.0632848
-654045,Sydney,29/12/2013,GJ Maxwell,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Stars,runs,77,N,NA,AJ Barrow,MW Graham-Smith,-33.84700867,151.0632848
-654069,Sydney,10/01/2014,Yasir Arafat,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,tie,NA,Y,NA,GA Abood,SD Fry,-33.84700867,151.0632848
-654077,Sydney,15/01/2014,SPD Smith,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers,runs,7,N,NA,MW Graham-Smith,P Wilson,-33.84700867,151.0632848
-654097,Sydney,5/02/2014,CJ Simmons,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Perth Scorchers,runs,5,N,D/L,MD Martell,P Wilson,-33.84700867,151.0632848
-756737,Sydney,19/12/2014,NJ Maddinson,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,AJ Barrow,DB Mealey,-33.84700867,151.0632848
-756753,Sydney,29/12/2014,AJ Tye,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,36,N,NA,SAJ Craig,SJ Nogajski,-33.84700867,151.0632848
-756775,Sydney,22/01/2015,JC Silk,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,4,N,NA,AJ Barrow,GC Joshua,-33.84700867,151.0632848
-756787,Sydney,14/01/2015,J Botha,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,23,N,NA,MW Graham-Smith,SJ Nogajski,-33.84700867,151.0632848
-897701,Sydney,20/12/2015,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers,runs,95,N,NA,SD Fry,PJ Gillespie,-33.84700867,151.0632848
-897713,Sydney,27/12/2015,GJ Maxwell,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Melbourne Stars,wickets,5,N,NA,GC Joshua,SJ Nogajski,-33.84700867,151.0632848
-897745,Sydney,10/01/2016,JA Burns,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,6,N,NA,PJ Gillespie,MW Graham-Smith,-33.84700867,151.0632848
-897753,Sydney,16/01/2016,SR Watson,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Thunder,runs,46,N,NA,GA Abood,JD Ward,-33.84700867,151.0632848
-1023587,Sydney,23/12/2016,DJM Short,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Hobart Hurricanes,runs,60,N,NA,PJ Gillespie,P Wilson,-33.84700867,151.0632848
-1023593,Sydney,27/12/2016,J Botha,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Sydney Sixers,wickets,6,N,NA,SD Fry,MW Graham-Smith,-33.84700867,151.0632848
-1023621,Sydney,9/01/2017,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,bat,Sydney Sixers,wickets,6,N,NA,SAJ Craig,AK Wilds,-33.84700867,151.0632848
-1023629,Sydney,14/01/2017,Fawad Ahmed,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,bat,Sydney Thunder,wickets,8,N,NA,AJ Barrow,GJ Davidson,-33.84700867,151.0632848
-1114860,Sydney,23/12/2017,AJ Turner,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,RJ Tucker,GC Joshua,-33.84700867,151.0632848
-1114864,Sydney,28/12/2017,AT Carey,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Adelaide Strikers,runs,6,N,NA,P Wilson,SAJ Craig,-33.84700867,151.0632848
-1114883,Sydney,13/01/2018,CJ Green,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,GJ Davidson,SA Lightbody,-33.84700867,151.0632848
-1114887,Sydney,18/01/2018,SA Abbott,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,GC Joshua,MW Graham-Smith,-33.84700867,151.0632848
-1114891,Sydney,23/01/2018,JL Denly,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,AK Wilds,-33.84700867,151.0632848
-1152514,Sydney,22/12/2018,SNJ O'Keefe,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers,runs,17,N,NA,GJ Davidson,MW Graham-Smith,-33.84700867,151.0632848
-1152520,Sydney,27/12/2018,PSP Handscomb,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,5,N,NA,SA Lightbody,SAJ Craig,-33.84700867,151.0632848
-1152542,Sydney,16/01/2019,KW Richardson,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,GJ Davidson,PJ Gillespie,-33.84700867,151.0632848
-1152546,Sydney,20/01/2019,JM Vince,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Sydney Sixers,runs,79,N,NA,JD Ward,SAJ Craig,-33.84700867,151.0632848
-1152550,Sydney,23/01/2019,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,AK Wilds,SJ Nogajski,-33.84700867,151.0632848
-1152555,Sydney,29/01/2019,BJ Dwarshuis,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,GJ Davidson,AK Wilds,-33.84700867,151.0632848
-1152559,Sydney,2/02/2019,DP Hughes,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,9,N,D/L,P Wilson,SD Fry,-33.84700867,151.0632848
-1195574,Sydney,18/12/2019,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,PJ Gillespie,SD Fry,-33.84700867,151.0632848
-1195581,Sydney,22/12/2019,CA Lynn,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Brisbane Heat,runs,48,N,NA,PJ Gillespie,MW Graham-Smith,-33.84700867,151.0632848
-1195586,Sydney,28/12/2019,TK Curran,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Thunder,bat,Sydney Sixers,tie,NA,Y,NA,AK Wilds,MW Graham-Smith,-33.84700867,151.0632848
-1195611,Sydney,16/01/2020,NA,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,NA,NA,NA,NA,NA,P Wilson,GC Joshua,-33.84700867,151.0632848
-1195617,Sydney,20/01/2020,MC Henriques,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers,runs,21,N,D/L,P Wilson,GA Abood,-33.84700867,151.0632848
-1195624,Sydney,25/01/2020,SPD Smith,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,P Wilson,DR Close,-33.84700867,151.0632848
-1195633,Sydney,8/02/2020,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers,runs,19,N,NA,P Wilson,GA Abood,-33.84700867,151.0632848
-1226882,Sydney,6/02/2021,JM Vince,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Sydney Sixers,runs,27,N,NA,P Wilson,SJ Nogajski,-33.84700867,151.0632848
-756791,Sydney,17/01/2015,KP Pietersen,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,DB Mealey,RJ Tucker,-33.84700867,151.0632848
-897715,Sydney,28/12/2015,JH Kallis,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder,wickets,7,N,NA,GA Abood,GJ Davidson,-33.84700867,151.0632848
-897737,Sydney,7/01/2016,CT Bancroft,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Perth Scorchers,runs,30,N,NA,GJ Davidson,P Wilson,-33.84700867,151.0632848
-897747,Sydney,11/01/2016,CL White,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,bat,Melbourne Renegades,wickets,5,N,NA,GA Abood,SAJ Craig,-33.84700867,151.0632848
-1023581,Sydney,20/12/2016,MC Henriques,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,JD Ward,P Wilson,-33.84700867,151.0632848
-1023595,Sydney,28/12/2016,CA Lynn,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,3,N,NA,SAJ Craig,DB Mealey,-33.84700867,151.0632848
-1023611,Sydney,4/01/2017,EJG Morgan,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,GA Abood,SD Fry,-33.84700867,151.0632848
-1023637,Sydney,18/01/2017,IS Sodhi,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,77,N,NA,AJ Barrow,MD Martell,-33.84700867,151.0632848
-1114856,Sydney,19/12/2017,SR Watson,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder,wickets,5,N,NA,PJ Gillespie,GA Abood,-33.84700867,151.0632848
-1114868,Sydney,1/01/2018,DJM Short,Sydney Showground Stadium,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Hobart Hurricanes,runs,9,N,NA,PJ Gillespie,GA Abood,-33.84700867,151.0632848
-1114875,Sydney,7/01/2018,Rashid Khan,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,25,N,NA,SA Lightbody,SD Fry,-33.84700867,151.0632848
-1114880,Sydney,11/01/2018,UT Khawaja,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder,runs,3,N,NA,PJ Gillespie,AK Wilds,-33.84700867,151.0632848
-1152518,Sydney,24/12/2018,JC Buttler,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder,runs,21,N,NA,GA Abood,AK Wilds,-33.84700867,151.0632848
-1152527,Sydney,2/01/2019,CJ Ferguson,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder,runs,1,N,NA,P Wilson,AK Wilds,-33.84700867,151.0632848
-1152534,Sydney,8/01/2019,CA Lynn,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,Brisbane Heat,runs,15,N,D/L,GJ Davidson,SAJ Craig,-33.84700867,151.0632848
-1152538,Sydney,13/01/2019,SR Watson,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Sydney Thunder,runs,71,N,NA,GA Abood,SA Lightbody,-33.84700867,151.0632848
-1152548,Sydney,22/01/2019,HF Gurney,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades,runs,12,N,NA,GJ Davidson,SAJ Craig,-33.84700867,151.0632848
-1195591,Sydney,2/01/2020,NCR Larkin,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars,wickets,3,N,NA,NR Johnstone,MW Graham-Smith,-33.84700867,151.0632848
-1195597,Sydney,6/01/2020,T Banton,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,16,N,D/L,GJ Davidson,SD Fry,-33.84700867,151.0632848
-1195603,Sydney,11/01/2020,AD Hales,Sydney Showground Stadium,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder,wickets,4,N,NA,P Wilson,AK Wilds,-33.84700867,151.0632848
-1195614,Sydney,18/01/2020,CH Morris,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder,runs,4,N,D/L,GA Abood,AK Wilds,-33.84700867,151.0632848
-1195626,Sydney,26/01/2020,AD Hales,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Perth Scorchers,bat,Sydney Thunder,wickets,7,N,D/L,GJ Davidson,SD Fry,-33.84700867,151.0632848
+id,state,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,eliminator,method,umpire1,umpire2,lat,long
+524917,South Australia,Adelaide,18/12/2011,M Klinger,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Adelaide Strikers,runs,67,N,NA,AJ Barrow,BNJ Oxenford,-34.91526994,138.5960395
+524924,South Australia,Adelaide,28/12/2011,XJ Doherty,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,14,N,NA,GC Joshua,JD Ward,-34.91526994,138.5960395
+524936,South Australia,Adelaide,10/01/2012,SNJ O'Keefe,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,64,N,NA,AJ Barrow,MD Martell,-34.91526994,138.5960395
+571237,South Australia,Adelaide,13/12/2012,LA Pomersbach,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,3,N,NA,DB Mealey,P Wilson,-34.91526994,138.5960395
+571247,South Australia,Adelaide,23/12/2012,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Adelaide Strikers,wickets,9,N,NA,SD Fry,SJ Nogajski,-34.91526994,138.5960395
+571249,South Australia,Adelaide,27/12/2012,BJ Hodge,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,8,N,NA,GC Joshua,IH Lock,-34.91526994,138.5960395
+571262,South Australia,Adelaide,10/01/2013,SE Marsh,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,98,N,NA,MD Martell,P Wilson,-34.91526994,138.5960395
+654061,South Australia,Adelaide,5/01/2014,MJ Lumb,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers,wickets,6,N,NA,SD Fry,SJ Nogajski,-34.91526994,138.5960395
+654081,South Australia,Adelaide,18/01/2014,DL Vettori,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,32,N,NA,SJ Nogajski,P Wilson,-34.91526994,138.5960395
+654087,South Australia,Adelaide,22/01/2014,DJ Bravo,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,1,N,NA,DB Mealey,AP Ward,-34.91526994,138.5960395
+756735,South Australia,Adelaide,18/12/2014,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers,wickets,8,N,NA,MW Graham-Smith,JD Ward,-34.91526994,138.5960395
+756757,South Australia,Adelaide,31/12/2014,TP Ludeman,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers,wickets,8,N,NA,GJ Davidson,MD Martell,-34.91526994,138.5960395
+756769,South Australia,Adelaide,6/01/2015,GB Hogg,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Perth Scorchers,runs,18,N,NA,GC Joshua,DB Mealey,-34.91526994,138.5960395
+756783,South Australia,Adelaide,12/01/2015,NA,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,NA,NA,NA,NA,NA,SD Fry,BNJ Oxenford,-34.91526994,138.5960395
+756799,South Australia,Adelaide,24/01/2015,NJ Maddinson,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,87,N,NA,GA Abood,MD Martell,-34.91526994,138.5960395
+897697,South Australia,Adelaide,18/12/2015,AI Ross,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,19,N,NA,GA Abood,MW Graham-Smith,-34.91526994,138.5960395
+897721,South Australia,Adelaide,31/12/2015,TM Head,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,SD Fry,P Wilson,-34.91526994,138.5960395
+897733,South Australia,Adelaide,5/01/2016,TM Head,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,bat,Adelaide Strikers,runs,36,N,NA,SAJ Craig,GJ Davidson,-34.91526994,138.5960395
+897749,South Australia,Adelaide,13/01/2016,AU Rashid,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers,wickets,6,N,NA,SAJ Craig,P Wilson,-34.91526994,138.5960395
+897759,South Australia,Adelaide,21/01/2016,UT Khawaja,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Sydney Thunder,wickets,8,N,NA,GA Abood,SD Fry,-34.91526994,138.5960395
+1023583,South Australia,Adelaide,21/12/2016,BB McCullum,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,field,Brisbane Heat,runs,10,N,NA,SAJ Craig,SJ Nogajski,-34.91526994,138.5960395
+1023601,South Australia,Adelaide,31/12/2016,SA Abbott,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Adelaide Strikers,runs,48,N,NA,AJ Barrow,GJ Davidson,-34.91526994,138.5960395
+1023615,South Australia,Adelaide,6/01/2017,BR Dunk,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,SD Fry,MW Graham-Smith,-34.91526994,138.5960395
+1023633,South Australia,Adelaide,16/01/2017,MS Harris,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,field,Melbourne Renegades,runs,6,N,NA,JD Ward,AK Wilds,-34.91526994,138.5960395
+1114859,South Australia,Adelaide,22/12/2017,Rashid Khan,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,53,N,NA,GJ Davidson,SA Lightbody,-34.91526994,138.5960395
+1114867,South Australia,Adelaide,31/12/2017,MG Neser,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers,runs,56,N,NA,GC Joshua,MW Graham-Smith,-34.91526994,138.5960395
+1114878,South Australia,Adelaide,9/01/2018,TM Head,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers,wickets,8,N,NA,PJ Gillespie,AK Wilds,-34.91526994,138.5960395
+1114886,South Australia,Adelaide,17/01/2018,AT Carey,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers,runs,11,N,NA,GJ Davidson,SA Lightbody,-34.91526994,138.5960395
+1114897,South Australia,Adelaide,2/02/2018,TM Head,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,1,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
+1114898,South Australia,Adelaide,4/02/2018,J Weatherald,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers,runs,25,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
+1152516,South Australia,Adelaide,23/12/2018,DT Christian,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,GC Joshua,SD Fry,-34.91526994,138.5960395
+1152524,South Australia,Adelaide,31/12/2018,PM Siddle,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,20,N,NA,GJ Davidson,GA Abood,-34.91526994,138.5960395
+1152532,South Australia,Adelaide,6/01/2019,JL Denly,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers,wickets,6,N,NA,MW Graham-Smith,GA Abood,-34.91526994,138.5960395
+1152537,South Australia,Adelaide,11/01/2019,CA Ingram,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,41,N,NA,JD Ward,AK Wilds,-34.91526994,138.5960395
+1152547,South Australia,Adelaide,21/01/2019,MS Wade,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes,wickets,10,N,NA,P Wilson,SA Lightbody,-34.91526994,138.5960395
+1152560,South Australia,Adelaide,3/02/2019,MT Renshaw,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,PJ Gillespie,MW Graham-Smith,-34.91526994,138.5960395
+1152564,South Australia,Adelaide,9/02/2019,JW Wells,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Adelaide Strikers,wickets,5,N,NA,DJ Shepard,JD Ward,-34.91526994,138.5960395
+1195582,South Australia,Adelaide,23/12/2019,J Weatherald,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers,runs,15,N,D/L,GC Joshua,AK Wilds,-34.91526994,138.5960395
+1195589,South Australia,Adelaide,31/12/2019,CJ Ferguson,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,3,N,NA,JD Ward,SAJ Craig,-34.91526994,138.5960395
+1195599,South Australia,Adelaide,8/01/2020,TK Curran,Adelaide Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,2,N,NA,SD Fry,MW Graham-Smith,-34.91526994,138.5960395
+1195605,South Australia,Adelaide,12/01/2020,JW Wells,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,63,N,NA,GA Abood,SAJ Craig,-34.91526994,138.5960395
+1195612,South Australia,Adelaide,17/01/2020,LN O'Connor,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Adelaide Strikers,wickets,10,N,NA,PJ Gillespie,SAJ Craig,-34.91526994,138.5960395
+1195620,South Australia,Adelaide,22/01/2020,JW Wells,Adelaide Oval,0,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers,runs,11,N,NA,GJ Davidson,DM Koch,-34.91526994,138.5960395
+1195627,South Australia,Adelaide,26/01/2020,MS Wade,Adelaide Oval,0,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,10,N,NA,MW Graham-Smith,GC Joshua,-34.91526994,138.5960395
+1195631,South Australia,Adelaide,1/02/2020,AD Hales,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,field,Sydney Thunder,runs,8,N,NA,P Wilson,SAJ Craig,-34.91526994,138.5960395
+1226826,South Australia,Adelaide,8/01/2021,Mohammad Nabi,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Melbourne Renegades,wickets,6,N,NA,DR Close,D Taylor,-34.91526994,138.5960395
+1226833,South Australia,Adelaide,5/01/2021,RJ Gibson,Adelaide Oval,0,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers,runs,60,N,NA,DR Close,SJ Nogajski,-34.91526994,138.5960395
+1226836,South Australia,Adelaide,25/01/2021,AD Hales,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,9,N,NA,GA Abood,GJ Davidson,-34.91526994,138.5960395
+1226845,South Australia,Adelaide,28/12/2020,Rashid Khan,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers,runs,71,N,NA,DR Close,SJ Nogajski,-34.91526994,138.5960395
+1226847,South Australia,Adelaide,24/01/2021,PM Siddle,Adelaide Oval,0,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers,runs,6,N,NA,GA Abood,AK Wilds,-34.91526994,138.5960395
+1226859,South Australia,Adelaide,21/01/2021,AT Carey,Adelaide Oval,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers,runs,82,N,NA,GA Abood,GJ Davidson,-34.91526994,138.5960395
+1226862,South Australia,Adelaide,26/01/2021,M Labuschagne,Adelaide Oval,0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat,runs,6,N,NA,GJ Davidson,AK Wilds,-34.91526994,138.5960395
+1226870,South Australia,Adelaide,31/12/2020,JA Richardson,Adelaide Oval,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,DR Close,MW Graham-Smith,-34.91526994,138.5960395
+1226876,South Australia,Adelaide,11/01/2021,WA Agar,Adelaide Oval,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Adelaide Strikers,wickets,5,N,NA,D Taylor,SJ Nogajski,-34.91526994,138.5960395
+1226880,South Australia,Adelaide,22/01/2021,AD Hales,Adelaide Oval,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder,runs,46,N,NA,GJ Davidson,AK Wilds,-34.91526994,138.5960395
+1114882,Northern Territory,Alice Springs,13/01/2018,AC Agar,Traeger Park,0,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,JD Ward,DM Koch,-23.70883566,133.8749553
+1195576,Northern Territory,Alice Springs,20/12/2019,Qais Ahmad,Traeger Park,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,25,N,NA,DR Close,AK Wilds,-23.70883566,133.8749553
+1226832,Queensland,Brisbane,2/01/2021,MT Steketee,Brisbane Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,bat,Brisbane Heat,wickets,4,N,NA,GJ Davidson,PJ Gillespie,-27.48568531,153.0379673
+1226851,Queensland,Brisbane,4/01/2021,JA Burns,Brisbane Cricket Ground,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat,wickets,5,N,NA,PJ Gillespie,AK Wilds,-27.48568531,153.0379673
+1226868,Queensland,Brisbane,27/12/2020,L Gregory,Brisbane Cricket Ground,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,4,N,NA,SJ Nogajski,AK Wilds,-27.48568531,153.0379673
+1226875,Queensland,Brisbane,30/12/2020,Mujeeb Ur Rahman,Brisbane Cricket Ground,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Hobart Hurricanes,runs,1,N,NA,DM Koch,AK Wilds,-27.48568531,153.0379673
+1226881,Queensland,Brisbane,23/12/2020,JJ Peirson,Brisbane Cricket Ground,0,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Adelaide Strikers,runs,2,N,NA,D Taylor,AK Wilds,-27.48568531,153.0379673
+1226883,Queensland,Brisbane,29/01/2021,JJ Peirson,Brisbane Cricket Ground,0,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Brisbane Heat,wickets,6,N,NA,DM Koch,MW Graham-Smith,-27.48568531,153.0379673
+524919,Queensland,Brisbane,20/12/2011,RJ Quiney,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,8,N,NA,IH Lock,PR Reiffel,-27.48568531,153.0379673
+524939,Queensland,Brisbane,17/01/2012,DT Christian,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Brisbane Heat,runs,91,N,NA,SD Fry,JD Ward,-27.48568531,153.0379673
+571234,Queensland,Brisbane,9/12/2012,TR Birt,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes,wickets,8,N,NA,SJ Davis,DB Mealey,-27.48568531,153.0379673
+571241,Queensland,Brisbane,18/12/2012,NM Coulter-Nile,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,9,N,D/L,DB Mealey,PR Reiffel,-27.48568531,153.0379673
+571259,Queensland,Brisbane,7/01/2013,MJ Lumb,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Sydney Sixers,wickets,5,N,NA,DB Mealey,BNJ Oxenford,-27.48568531,153.0379673
+654037,Queensland,Brisbane,22/12/2013,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Brisbane Heat,wickets,3,N,NA,IH Lock,DB Mealey,-27.48568531,153.0379673
+654043,Queensland,Brisbane,28/12/2013,BR Dunk,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes,wickets,3,N,NA,GA Abood,DB Mealey,-27.48568531,153.0379673
+654055,Queensland,Brisbane,2/01/2014,B Lee,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Brisbane Heat,field,Sydney Sixers,runs,4,N,NA,AJ Barrow,JD Ward,-27.48568531,153.0379673
+654073,Queensland,Brisbane,11/01/2014,LJ Wright,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Brisbane Heat,bat,Melbourne Stars,wickets,3,N,NA,AJ Barrow,P Wilson,-27.48568531,153.0379673
+756751,Queensland,Brisbane,28/12/2014,RM Duffield,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,1,N,NA,MW Graham-Smith,DB Mealey,-27.48568531,153.0379673
+756765,Queensland,Brisbane,4/01/2015,TM Head,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,AJ Barrow,JD Ward,-27.48568531,153.0379673
+756781,Queensland,Brisbane,11/01/2015,DE Bollinger,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,6,N,NA,DB Mealey,P Wilson,-27.48568531,153.0379673
+756797,Queensland,Brisbane,15/01/2015,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat,runs,18,N,NA,GA Abood,P Wilson,-27.48568531,153.0379673
+897699,Queensland,Brisbane,19/12/2015,AJ Finch,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Melbourne Renegades,wickets,7,N,NA,AJ Barrow,SJ Nogajski,-27.48568531,153.0379673
+897717,Queensland,Brisbane,29/12/2015,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,15,N,NA,AJ Barrow,SD Fry,-27.48568531,153.0379673
+897729,Queensland,Brisbane,3/01/2016,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,SD Fry,MW Graham-Smith,-27.48568531,153.0379673
+897739,Queensland,Brisbane,8/01/2016,DPMD Jayawardene,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,8,N,NA,AJ Barrow,PJ Gillespie,-27.48568531,153.0379673
+1023599,Queensland,Brisbane,30/12/2016,CA Lynn,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Brisbane Heat,wickets,7,N,NA,JD Ward,P Wilson,-27.48568531,153.0379673
+1023609,Queensland,Brisbane,3/01/2017,DP Hughes,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,AJ Barrow,MD Martell,-27.48568531,153.0379673
+1023625,Queensland,Brisbane,11/01/2017,M Klinger,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Perth Scorchers,runs,27,N,NA,SD Fry,MW Graham-Smith,-27.48568531,153.0379673
+1023639,Queensland,Brisbane,20/01/2017,AJ Finch,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,1,N,NA,SAJ Craig,SJ Nogajski,-27.48568531,153.0379673
+1023647,Queensland,Brisbane,25/01/2017,MC Henriques,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,tie,NA,Y,NA,GA Abood,GC Joshua,-27.48568531,153.0379673
+1114857,Queensland,Brisbane,20/12/2017,MP Stoinis,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,15,N,NA,JD Ward,SAJ Craig,-27.48568531,153.0379673
+1114863,Queensland,Brisbane,27/12/2017,AI Ross,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Brisbane Heat,wickets,6,N,D/L,GA Abood,AK Wilds,-27.48568531,153.0379673
+1114873,Queensland,Brisbane,5/01/2018,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat,runs,49,N,NA,PJ Gillespie,AK Wilds,-27.48568531,153.0379673
+1114879,Queensland,Brisbane,10/01/2018,DJM Short,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,3,N,NA,Geoff Davidson,SD Fry,-27.48568531,153.0379673
+1114895,Queensland,Brisbane,27/01/2018,TLW Cooper,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,26,N,NA,GC Joshua,MW Graham-Smith,-27.48568531,153.0379673
+1152511,Queensland,Brisbane,19/12/2018,Rashid Khan,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,P Wilson,SD Fry,-27.48568531,153.0379673
+1152536,Queensland,Brisbane,10/01/2019,SB Harper,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,GC Joshua,SA Lightbody,-27.48568531,153.0379673
+1152543,Queensland,Brisbane,17/01/2019,NA,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,NA,NA,NA,NA,NA,SAJ Craig,DM Koch,-27.48568531,153.0379673
+1152558,Queensland,Brisbane,1/02/2019,Mujeeb Ur Rahman,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Brisbane Heat,wickets,6,N,NA,GJ Davidson,DM Koch,-27.48568531,153.0379673
+1152563,Queensland,Brisbane,8/02/2019,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Brisbane Heat,wickets,10,N,NA,GJ Davidson,AK Wilds,-27.48568531,153.0379673
+1195573,Queensland,Brisbane,17/12/2019,CJ Ferguson,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,29,N,NA,GA Abood,SJ Nogajski,-27.48568531,153.0379673
+1195601,Queensland,Brisbane,9/01/2020,BCJ Cutting,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Brisbane Heat,wickets,5,N,NA,GA Abood,SAJ Craig,-27.48568531,153.0379673
+1195608,Queensland,Brisbane,14/01/2020,JL Pattinson,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,Brisbane Heat,wickets,7,N,NA,P Wilson,AK Wilds,-27.48568531,153.0379673
+1195616,Queensland,Brisbane,19/01/2020,CJ Boyce,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades,runs,44,N,NA,GJ Davidson,SA Lightbody,-27.48568531,153.0379673
+1195621,Queensland,Brisbane,23/01/2020,SNJ O'Keefe,"Brisbane Cricket Ground, Woolloongabba",0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,PJ Gillespie,GC Joshua,-27.48568531,153.0379673
+756803,Australian Capital Territory,Canberra,28/01/2015,SE Marsh,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers,wickets,4,N,NA,MD Martell,P Wilson,-35.3178266,149.1346405
+1114892,Australian Capital Territory,Canberra,24/01/2018,KW Richardson,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades,runs,9,N,NA,JD Ward,SAJ Craig,-35.3178266,149.1346405
+1152513,Australian Capital Territory,Canberra,21/12/2018,DR Sams,Manuka Oval,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder,runs,15,N,D/L,SA Lightbody,AK Wilds,-35.3178266,149.1346405
+1152565,Australian Capital Territory,Canberra,9/02/2019,PJ Cummins,Manuka Oval,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder,wickets,4,N,D/L,P Wilson,SA Lightbody,-35.3178266,149.1346405
+1195578,Australian Capital Territory,Canberra,21/12/2019,NA,Manuka Oval,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,NA,NA,NA,NA,NA,P Wilson,SJ Nogajski,-35.3178266,149.1346405
+1195609,Australian Capital Territory,Canberra,15/01/2020,SB Harper,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,12,N,D/L,SD Fry,DM Koch,-35.3178266,149.1346405
+1226828,Australian Capital Territory,Canberra,12/12/2020,A Zampa,Manuka Oval,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,22,N,NA,GJ Davidson,PJ Gillespie,-35.3178266,149.1346405
+1226831,Australian Capital Territory,Canberra,22/12/2020,CJ Ferguson,Manuka Oval,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,7,N,NA,DM Koch,SA Lightbody,-35.3178266,149.1346405
+1226840,Australian Capital Territory,Canberra,18/01/2021,BR McDermott,Manuka Oval,0,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,GJ Davidson,AK Wilds,-35.3178266,149.1346405
+1226843,Australian Capital Territory,Canberra,14/01/2021,JA Burns,Manuka Oval,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,5,N,NA,GA Abood,GJ Davidson,-35.3178266,149.1346405
+1226854,Australian Capital Territory,Canberra,29/12/2020,AD Hales,Manuka Oval,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder,runs,75,N,NA,DM Koch,SA Lightbody,-35.3178266,149.1346405
+1226861,Australian Capital Territory,Canberra,13/01/2021,SNJ O'Keefe,Manuka Oval,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,D/L,GA Abood,AK Wilds,-35.3178266,149.1346405
+1226865,Australian Capital Territory,Canberra,16/01/2021,JR Philippe,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,7,N,NA,GA Abood,AK Wilds,-35.3178266,149.1346405
+1226866,Australian Capital Territory,Canberra,14/12/2020,DR Sams,Manuka Oval,0,Brisbane Heat,Sydney Thunder,Brisbane Heat,bat,Sydney Thunder,wickets,4,N,NA,GJ Davidson,SAJ Craig,-35.3178266,149.1346405
+1226872,Australian Capital Territory,Canberra,11/12/2020,NM Coulter-Nile,Manuka Oval,0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,PJ Gillespie,SAJ Craig,-35.3178266,149.1346405
+1226874,Australian Capital Territory,Canberra,26/12/2020,O Davies,Manuka Oval,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder,runs,129,N,NA,DM Koch,NR Johnstone,-35.3178266,149.1346405
+1226884,Australian Capital Territory,Canberra,30/01/2021,JM Vince,Manuka Oval,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,9,N,NA,P Wilson,SJ Nogajski,-35.3178266,149.1346405
+1226885,Australian Capital Territory,Canberra,31/01/2021,SD Heazlett,Manuka Oval,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,7,N,NA,DM Koch,MW Graham-Smith,-35.3178266,149.1346405
+1226886,Australian Capital Territory,Canberra,4/02/2021,LS Livingstone,Manuka Oval,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers,runs,49,N,D/L,GA Abood,SAJ Craig,-35.3178266,149.1346405
+1152515,Queensland,Carrara,22/12/2018,DJM Short,Carrara Oval,0,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Hobart Hurricanes,runs,15,N,NA,PJ Gillespie,JD Ward,-28.00442584,153.3663714
+1152525,Queensland,Carrara,1/01/2019,CA Lynn,Carrara Oval,0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,DM Koch,-28.00442584,153.3663714
+1152530,Queensland,Carrara,5/01/2019,MP Stoinis,Carrara Oval,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,bat,Melbourne Stars,wickets,8,N,NA,GJ Davidson,GC Joshua,-28.00442584,153.3663714
+1195577,Queensland,Carrara,20/12/2019,GJ Maxwell,Carrara Oval,0,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Melbourne Stars,runs,22,N,NA,JD Ward,SA Lightbody,-28.00442584,153.3663714
+1195585,Queensland,Carrara,27/12/2019,JW Wells,Carrara Oval,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Strikers,runs,5,N,NA,SAJ Craig,SJ Nogajski,-28.00442584,153.3663714
+1195590,Queensland,Carrara,1/01/2020,Fawad Ahmed,Carrara Oval,0,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,40,N,NA,AK Wilds,DM Koch,-28.00442584,153.3663714
+1226835,Queensland,Carrara,7/01/2021,CA Lynn,Carrara Oval,0,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat,runs,17,N,D/L,GA Abood,PJ Gillespie,-28.00442584,153.3663714
+1226842,Queensland,Carrara,3/01/2021,JR Philippe,Carrara Oval,0,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,GJ Davidson,AK Wilds,-28.00442584,153.3663714
+1226846,Queensland,Carrara,26/12/2020,DP Hughes,Carrara Oval,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,1,N,NA,PJ Gillespie,SJ Nogajski,-28.00442584,153.3663714
+1226855,Queensland,Carrara,10/01/2021,DT Christian,Carrara Oval,0,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,GJ Davidson,AK Wilds,-28.00442584,153.3663714
+1226856,Queensland,Carrara,1/01/2021,AD Hales,Carrara Oval,0,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,runs,7,N,D/L,D Taylor,PJ Gillespie,-28.00442584,153.3663714
+1226877,Queensland,Carrara,29/12/2020,JO Holder,Carrara Oval,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers,wickets,2,N,NA,PJ Gillespie,AK Wilds,-28.00442584,153.3663714
+1195595,Queensland,Coffs Harbour,5/01/2020,JR Philippe,International Sports Stadium,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Sydney Sixers,wickets,7,N,NA,GC Joshua,DM Koch,-30.32184249,153.0951758
+1152539,Victoria,Geelong,13/01/2019,M Bryant,Geelong Cricket Ground,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Brisbane Heat,runs,101,N,NA,PJ Gillespie,SAJ Craig,-38.15595314,144.35423
+1114871,Victoria,Geelong,3/01/2018,AJ Finch,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,GJ Davidson,SD Fry,-38.15595314,144.35423
+1152528,Victoria,Geelong,3/01/2019,J Weatherald,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,32,N,NA,MW Graham-Smith,GA Abood,-38.15595314,144.35423
+1195575,Victoria,Geelong,19/12/2019,AD Hales,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder,wickets,6,N,NA,GJ Davidson,DM Koch,-38.15595314,144.35423
+1195598,Victoria,Geelong,7/01/2020,LS Livingstone,"Simonds Stadium, South Geelong, Victoria",0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,NR Johnstone,P Wilson,-38.15595314,144.35423
+524920,Tasmania,Hobart,21/12/2011,TR Birt,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,42,N,NA,SD Fry,GC Joshua,-42.87719409,147.3739162
+524927,Tasmania,Hobart,1/01/2012,Naved-ul-Hasan,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Hobart Hurricanes,wickets,5,N,NA,IH Lock,RL Parry,-42.87719409,147.3739162
+524935,Tasmania,Hobart,9/01/2012,LJ Wright,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars,runs,19,N,NA,GC Joshua,JD Ward,-42.87719409,147.3739162
+524940,Tasmania,Hobart,18/01/2012,OA Shah,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes,wickets,7,N,NA,GA Abood,AJ Barrow,-42.87719409,147.3739162
+524944,Tasmania,Hobart,22/01/2012,NJ Maddinson,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,7,N,NA,MD Martell,PR Reiffel,-42.87719409,147.3739162
+654035,Tasmania,Hobart,22/12/2013,NA,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,NA,NA,NA,NA,NA,MD Martell,SJ Nogajski,-42.87719409,147.3739162
+654051,Tasmania,Hobart,1/01/2014,JL Pattinson,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,51,N,NA,GC Joshua,IH Lock,-42.87719409,147.3739162
+654071,Tasmania,Hobart,11/01/2014,BR Dunk,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes,runs,73,N,NA,DB Mealey,SJ Nogajski,-42.87719409,147.3739162
+654089,Tasmania,Hobart,23/01/2014,BR Dunk,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes,runs,40,N,NA,GA Abood,IH Lock,-42.87719409,147.3739162
+756745,Tasmania,Hobart,23/12/2014,MC Henriques,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Sydney Sixers,wickets,7,N,NA,MW Graham-Smith,P Wilson,-42.87719409,147.3739162
+756761,Tasmania,Hobart,2/01/2015,TD Paine,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,AJ Barrow,JD Ward,-42.87719409,147.3739162
+756779,Tasmania,Hobart,11/01/2015,JP Behrendorff,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,18,N,NA,AJ Barrow,MW Graham-Smith,-42.87719409,147.3739162
+756789,Tasmania,Hobart,7/01/2015,BA Stokes,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,field,Melbourne Renegades,runs,37,N,NA,SAJ Craig,JD Ward,-42.87719409,147.3739162
+897707,Tasmania,Hobart,22/12/2015,TD Paine,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes,runs,20,N,NA,GJ Davidson,MW Graham-Smith,-42.87719409,147.3739162
+897723,Tasmania,Hobart,1/01/2016,SW Tait,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Hobart Hurricanes,runs,11,N,NA,PJ Gillespie,GC Joshua,-42.87719409,147.3739162
+897731,Tasmania,Hobart,4/01/2016,CP Tremain,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,SJ Nogajski,P Wilson,-42.87719409,147.3739162
+897743,Tasmania,Hobart,10/01/2016,MA Carberry,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,1,N,NA,AJ Barrow,P Wilson,-42.87719409,147.3739162
+1023591,Tasmania,Hobart,26/12/2016,RJ Quiney,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,bat,Melbourne Stars,wickets,7,N,NA,GC Joshua,P Wilson,-42.87719409,147.3739162
+1023607,Tasmania,Hobart,2/01/2017,DT Christian,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,8,N,NA,PJ Gillespie,JD Ward,-42.87719409,147.3739162
+1023619,Tasmania,Hobart,8/01/2017,SR Watson,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,GJ Davidson,MD Martell,-42.87719409,147.3739162
+1023641,Tasmania,Hobart,21/01/2017,SE Marsh,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GA Abood,MW Graham-Smith,-42.87719409,147.3739162
+1114858,Tasmania,Hobart,21/12/2017,DJ Bravo,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,SJ Nogajski,MW Graham-Smith,-42.87719409,147.3739162
+1114872,Tasmania,Hobart,4/01/2018,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,7,N,NA,GC Joshua,SJ Nogajski,-42.87719409,147.3739162
+1114876,Tasmania,Hobart,8/01/2018,SW Billings,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes,runs,5,N,NA,SAJ Craig,DM Koch,-42.87719409,147.3739162
+1114884,Tasmania,Hobart,15/01/2018,DT Christian,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,bat,Hobart Hurricanes,wickets,6,N,NA,GA Abood,AK Wilds,-42.87719409,147.3739162
+1152517,Tasmania,Hobart,24/12/2018,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,SAJ Craig,SJ Nogajski,-42.87719409,147.3739162
+1152521,Tasmania,Hobart,28/12/2018,MS Wade,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Hobart Hurricanes,wickets,7,N,NA,SD Fry,MW Graham-Smith,-42.87719409,147.3739162
+1152529,Tasmania,Hobart,4/01/2019,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,5,N,NA,JD Ward,SA Lightbody,-42.87719409,147.3739162
+1152554,Tasmania,Hobart,29/01/2019,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes,wickets,9,N,NA,JD Ward,SJ Nogajski,-42.87719409,147.3739162
+1152562,Tasmania,Hobart,7/02/2019,MS Wade,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Hobart Hurricanes,runs,16,N,NA,GC Joshua,SAJ Craig,-42.87719409,147.3739162
+1152567,Tasmania,Hobart,14/02/2019,DJ Worrall,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,SAJ Craig,SJ Nogajski,-42.87719409,147.3739162
+1195583,Tasmania,Hobart,24/12/2019,RP Meredith,Bellerive Oval,0,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes,wickets,7,N,NA,SJ Nogajski,MW Graham-Smith,-42.87719409,147.3739162
+1195593,Tasmania,Hobart,3/01/2020,CA Lynn,Bellerive Oval,0,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Brisbane Heat,runs,31,N,NA,DR Close,SJ Nogajski,-42.87719409,147.3739162
+1195607,Tasmania,Hobart,13/01/2020,JP Inglis,Bellerive Oval,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Perth Scorchers,runs,77,N,NA,GJ Davidson,SA Lightbody,-42.87719409,147.3739162
+1195622,Tasmania,Hobart,24/01/2020,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes,runs,57,N,NA,GA Abood,SA Lightbody,-42.87719409,147.3739162
+1195629,Tasmania,Hobart,30/01/2020,JD Cook,Bellerive Oval,0,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,57,N,NA,P Wilson,SAJ Craig,-42.87719409,147.3739162
+1226830,Tasmania,Hobart,19/12/2020,BR McDermott,Bellerive Oval,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,DR Close,P Wilson,-42.87719409,147.3739162
+1226837,Tasmania,Hobart,13/12/2020,JR Philippe,Bellerive Oval,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Sydney Sixers,runs,145,N,NA,DM Koch,MW Graham-Smith,-42.87719409,147.3739162
+1226841,Tasmania,Hobart,12/12/2020,JK Lalor,Bellerive Oval,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Melbourne Renegades,wickets,7,N,NA,DM Koch,MW Graham-Smith,-42.87719409,147.3739162
+1226844,Tasmania,Hobart,2/01/2021,SM Boland,Bellerive Oval,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Hobart Hurricanes,runs,21,N,NA,GA Abood,NR Johnstone,-42.87719409,147.3739162
+1226850,Tasmania,Hobart,13/12/2020,DJM Short,Bellerive Oval,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Hobart Hurricanes,runs,11,N,NA,DR Close,NR Johnstone,-42.87719409,147.3739162
+1226852,Tasmania,Hobart,10/12/2020,TH David,Bellerive Oval,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes,runs,16,N,NA,P Wilson,SJ Nogajski,-42.87719409,147.3739162
+1226873,Tasmania,Hobart,20/12/2020,DT Christian,Bellerive Oval,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Sydney Sixers,runs,38,N,NA,MW Graham-Smith,SJ Nogajski,-42.87719409,147.3739162
+1226879,Tasmania,Hobart,4/01/2021,MP Stoinis,Bellerive Oval,0,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars,runs,10,N,NA,GA Abood,NR Johnstone,-42.87719409,147.3739162
+1114866,Tasmania,Launceston,30/12/2017,JC Buttler,Aurora Stadium,0,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Sydney Thunder,runs,57,N,NA,GJ Davidson,SD Fry,-41.42592634,147.1390115
+1152523,Tasmania,Launceston,30/12/2018,RP Meredith,Aurora Stadium,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Hobart Hurricanes,wickets,6,N,NA,AK Wilds,MW Graham-Smith,-41.42592634,147.1390115
+1152557,Tasmania,Launceston,31/01/2019,J Weatherald,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,7,N,NA,JD Ward,SA Lightbody,-41.42592634,147.1390115
+1195588,Tasmania,Launceston,30/12/2019,NM Coulter-Nile,Aurora Stadium,0,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,runs,4,N,D/L,PJ Gillespie,AK Wilds,-41.42592634,147.1390115
+1195615,Tasmania,Launceston,19/01/2020,TM Head,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Adelaide Strikers,runs,10,N,NA,JD Ward,SD Fry,-41.42592634,147.1390115
+1226863,Tasmania,Launceston,15/12/2020,PM Siddle,Aurora Stadium,0,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers,wickets,5,N,NA,DM Koch,P Wilson,-41.42592634,147.1390115
+1226867,Tasmania,Launceston,16/12/2020,NA,Aurora Stadium,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,NA,NA,NA,NA,NA,MW Graham-Smith,SJ Nogajski,-41.42592634,147.1390115
+524921,Victoria,Melbourne,22/12/2011,SE Marsh,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,bat,Perth Scorchers,wickets,8,N,NA,GA Abood,RL Parry,-37.81385247,144.9474603
+524928,Victoria,Melbourne,2/01/2012,AB McDonald,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Sydney Sixers,bat,Melbourne Renegades,wickets,8,N,NA,MD Martell,PR Reiffel,-37.81385247,144.9474603
+524938,Victoria,Melbourne,12/01/2012,DL Vettori,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,12,N,NA,IH Lock,AP Ward,-37.81385247,144.9474603
+571232,Victoria,Melbourne,7/12/2012,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,bat,Melbourne Renegades,wickets,8,N,NA,SD Fry,PR Reiffel,-37.81385247,144.9474603
+571242,Victoria,Melbourne,19/12/2012,MN Samuels,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,SJ Nogajski,JD Ward,-37.81385247,144.9474603
+571245,Victoria,Melbourne,22/12/2012,BCJ Cutting,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades,wickets,6,N,NA,GA Abood,BNJ Oxenford,-37.81385247,144.9474603
+571254,Victoria,Melbourne,2/01/2013,M Muralitharan,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,field,Melbourne Renegades,runs,48,N,NA,SJ Nogajski,P Wilson,-37.81385247,144.9474603
+571264,Victoria,Melbourne,4/02/2013,LA Pomersbach,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,15,N,NA,JD Ward,P Wilson,-37.81385247,144.9474603
+654047,Victoria,Melbourne,30/12/2013,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,bat,Melbourne Renegades,runs,57,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
+654059,Victoria,Melbourne,4/01/2014,CL White,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars,wickets,9,N,NA,AJ Barrow,AP Ward,-37.81385247,144.9474603
+654075,Victoria,Melbourne,14/01/2014,GS Sandhu,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder,wickets,9,N,NA,GC Joshua,AP Ward,-37.81385247,144.9474603
+654083,Victoria,Melbourne,18/01/2014,MC Henriques,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers,runs,2,N,NA,DB Mealey,AP Ward,-37.81385247,144.9474603
+756755,Victoria,Melbourne,30/12/2014,JL Pattinson,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Melbourne Renegades,wickets,8,N,NA,AJ Barrow,RJ Tucker,-37.81385247,144.9474603
+756763,Victoria,Melbourne,3/01/2015,MA Beer,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,112,N,NA,GC Joshua,P Wilson,-37.81385247,144.9474603
+756785,Victoria,Melbourne,13/01/2015,Shakib Al Hasan,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,GC Joshua,JD Ward,-37.81385247,144.9474603
+756793,Victoria,Melbourne,19/01/2015,TM Head,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,22,N,NA,GA Abood,GJ Davidson,-37.81385247,144.9474603
+897709,Victoria,Melbourne,23/12/2015,MJ Lumb,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
+897719,Victoria,Melbourne,30/12/2015,M Klinger,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,10,N,NA,GA Abood,PJ Gillespie,-37.81385247,144.9474603
+897741,Victoria,Melbourne,9/01/2016,MP Stoinis,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
+897757,Victoria,Melbourne,18/01/2016,TM Head,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,27,N,NA,GA Abood,SAJ Craig,-37.81385247,144.9474603
+1023585,Victoria,Melbourne,22/12/2016,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Melbourne Renegades,runs,49,N,NA,GA Abood,MW Graham-Smith,-37.81385247,144.9474603
+1023597,Victoria,Melbourne,29/12/2016,M Klinger,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,4,N,NA,GJ Davidson,MD Martell,-37.81385247,144.9474603
+1023617,Victoria,Melbourne,7/01/2017,A Zampa,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,46,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
+1023627,Victoria,Melbourne,12/01/2017,BR McDermott,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,2,N,NA,PJ Gillespie,P Wilson,-37.81385247,144.9474603
+1114861,Victoria,Melbourne,23/12/2017,JD Wildermuth,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,P Wilson,JD Ward,-37.81385247,144.9474603
+1114865,Victoria,Melbourne,29/12/2017,MG Johnson,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,3,N,NA,PJ Gillespie,AK Wilds,-37.81385247,144.9474603
+1114881,Victoria,Melbourne,12/01/2018,KP Pietersen,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars,runs,23,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
+1114890,Victoria,Melbourne,22/01/2018,CA Ingram,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers,runs,26,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
+1152512,Victoria,Melbourne,20/12/2018,Usman Shinwari,Docklands Stadium,0,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Melbourne Renegades,wickets,4,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
+1152522,Victoria,Melbourne,29/12/2018,BAD Manenti,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers,runs,33,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
+1152533,Victoria,Melbourne,7/01/2019,SB Harper,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades,wickets,6,N,NA,P Wilson,SA Lightbody,-37.81385247,144.9474603
+1152545,Victoria,Melbourne,19/01/2019,MP Stoinis,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,PJ Gillespie,GC Joshua,-37.81385247,144.9474603
+1152556,Victoria,Melbourne,30/01/2019,CJ Boyce,Docklands Stadium,0,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Melbourne Renegades,runs,27,N,NA,PJ Gillespie,GC Joshua,-37.81385247,144.9474603
+1152568,Victoria,Melbourne,15/02/2019,DT Christian,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades,wickets,3,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
+1152569,Victoria,Melbourne,17/02/2019,DT Christian,Docklands Stadium,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades,runs,13,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
+1195587,Victoria,Melbourne,29/12/2019,Rashid Khan,Docklands Stadium,0,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,18,N,NA,GJ Davidson,DM Koch,-37.81385247,144.9474603
+1195592,Victoria,Melbourne,2/01/2020,JM Vince,Docklands Stadium,0,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers,wickets,6,N,NA,JD Ward,SD Fry,-37.81385247,144.9474603
+1195602,Victoria,Melbourne,10/01/2020,GJ Maxwell,Docklands Stadium,0,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,SD Fry,MW Graham-Smith,-37.81385247,144.9474603
+1195619,Victoria,Melbourne,21/01/2020,M Wright,Docklands Stadium,0,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Hobart Hurricanes,runs,4,N,NA,SAJ Craig,AK Wilds,-37.81385247,144.9474603
+1195628,Victoria,Melbourne,27/01/2020,AJ Finch,Docklands Stadium,0,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades,wickets,7,N,NA,P Wilson,PJ Gillespie,-37.81385247,144.9474603
+1226834,Victoria,Melbourne,22/01/2021,JA Richardson,Docklands Stadium,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,22,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
+1226838,Victoria,Melbourne,19/01/2021,C Munro,Docklands Stadium,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers,runs,59,N,NA,DR Close,MW Graham-Smith,-37.81385247,144.9474603
+1226848,Victoria,Melbourne,23/01/2021,M Labuschagne,Docklands Stadium,0,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Brisbane Heat,runs,26,N,NA,DM Koch,SJ Nogajski,-37.81385247,144.9474603
+1226869,Victoria,Melbourne,20/01/2021,MW Harvey,Docklands Stadium,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades,wickets,5,N,NA,SJ Nogajski,SAJ Craig,-37.81385247,144.9474603
+524916,Victoria,Melbourne,17/12/2011,DA Warner,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,SD Fry,P Wilson,-37.81385247,144.9474603
+524930,Victoria,Melbourne,4/01/2012,HH Gibbs,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,8,N,NA,MD Martell,P Wilson,-37.81385247,144.9474603
+524942,Victoria,Melbourne,19/01/2012,CJ McKay,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars,wickets,6,N,NA,IH Lock,RL Parry,-37.81385247,144.9474603
+571239,Victoria,Melbourne,15/12/2012,CJ McKay,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,4,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
+571258,Victoria,Melbourne,6/01/2013,AJ Finch,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades,wickets,9,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
+571260,Victoria,Melbourne,8/01/2013,CH Gayle,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,13,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
+654031,Victoria,Melbourne,20/12/2013,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Stars,runs,76,N,NA,SD Fry,JD Ward,-37.81385247,144.9474603
+654067,Victoria,Melbourne,9/01/2014,JP Faulkner,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars,wickets,8,N,NA,MW Graham-Smith,GC Joshua,-37.81385247,144.9474603
+654085,Victoria,Melbourne,21/01/2014,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,5,N,NA,IH Lock,SJ Nogajski,-37.81385247,144.9474603
+654093,Victoria,Melbourne,27/01/2014,JW Hastings,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars,runs,20,N,NA,GA Abood,GC Joshua,-37.81385247,144.9474603
+654095,Victoria,Melbourne,4/02/2014,CJ Boyce,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Hobart Hurricanes,wickets,7,N,NA,GA Abood,AP Ward,-37.81385247,144.9474603
+756739,Victoria,Melbourne,20/12/2014,DJG Sammy,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes,runs,52,N,NA,GC Joshua,MD Martell,-37.81385247,144.9474603
+756767,Victoria,Melbourne,5/01/2015,JP Faulkner,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Melbourne Stars,tie,NA,Y,NA,SJ Nogajski,P Wilson,-37.81385247,144.9474603
+756777,Victoria,Melbourne,10/01/2015,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Stars,wickets,3,N,NA,SAJ Craig,MD Martell,-37.81385247,144.9474603
+756795,Victoria,Melbourne,21/01/2015,PSP Handscomb,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Melbourne Stars,wickets,3,N,NA,SAJ Craig,GJ Davidson,-37.81385247,144.9474603
+897725,Victoria,Melbourne,2/01/2016,LJ Wright,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,SAJ Craig,SJ Nogajski,-37.81385247,144.9474603
+897735,Victoria,Melbourne,6/01/2016,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
+897751,Victoria,Melbourne,14/01/2016,S Badree,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,Brisbane Heat,runs,56,N,NA,GJ Davidson,SJ Nogajski,-37.81385247,144.9474603
+897761,Victoria,Melbourne,22/01/2016,KP Pietersen,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,GC Joshua,SJ Nogajski,-37.81385247,144.9474603
+897763,Victoria,Melbourne,24/01/2016,UT Khawaja,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,3,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
+1023603,Victoria,Melbourne,1/01/2017,GB Hogg,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades,runs,7,N,D/L,SAJ Craig,GC Joshua,-37.81385247,144.9474603
+1023623,Victoria,Melbourne,10/01/2017,BW Hilfenhaus,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Melbourne Stars,wickets,2,N,NA,JD Ward,P Wilson,-37.81385247,144.9474603
+1023635,Victoria,Melbourne,17/01/2017,MJ Swepson,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Melbourne Stars,bat,Brisbane Heat,wickets,7,N,NA,GA Abood,MW Graham-Smith,-37.81385247,144.9474603
+1023643,Victoria,Melbourne,21/01/2017,SA Abbott,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,3,N,NA,AJ Barrow,GJ Davidson,-37.81385247,144.9474603
+1114870,Victoria,Melbourne,2/01/2018,MJ Swepson,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,9,N,NA,GC Joshua,MW Graham-Smith,-37.81385247,144.9474603
+1114874,Victoria,Melbourne,6/01/2018,Mohammad Nabi,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,6,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
+1114885,Victoria,Melbourne,16/01/2018,NM Lyon,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
+1114888,Victoria,Melbourne,20/01/2018,SR Watson,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,7,N,NA,SA Lightbody,Geoff Davidson,-37.81385247,144.9474603
+1114894,Victoria,Melbourne,27/01/2018,KP Pietersen,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars,wickets,3,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
+1152526,Victoria,Melbourne,1/01/2019,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,7,N,NA,JD Ward,SAJ Craig,-37.81385247,144.9474603
+1152535,Victoria,Melbourne,9/01/2019,AJ Tye,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,SD Fry,SJ Nogajski,-37.81385247,144.9474603
+1152541,Victoria,Melbourne,14/01/2019,DJM Short,Melbourne Cricket Ground,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes,runs,59,N,NA,JD Ward,MW Graham-Smith,-37.81385247,144.9474603
+1152552,Victoria,Melbourne,27/01/2019,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Melbourne Stars,runs,5,N,NA,GC Joshua,SD Fry,-37.81385247,144.9474603
+1152566,Victoria,Melbourne,10/02/2019,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars,runs,94,N,NA,GA Abood,SJ Nogajski,-37.81385247,144.9474603
+1195594,Victoria,Melbourne,4/01/2020,A Zampa,Melbourne Cricket Ground,0,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
+1195600,Victoria,Melbourne,8/01/2020,Haris Rauf,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Melbourne Stars,wickets,6,N,NA,GC Joshua,DM Koch,-37.81385247,144.9474603
+1195606,Victoria,Melbourne,12/01/2020,MP Stoinis,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars,runs,44,N,NA,PJ Gillespie,DM Koch,-37.81385247,144.9474603
+1195613,Victoria,Melbourne,18/01/2020,GJ Maxwell,Melbourne Cricket Ground,0,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars,runs,10,N,NA,P Wilson,DR Close,-37.81385247,144.9474603
+1195625,Victoria,Melbourne,25/01/2020,AB de Villiers,Melbourne Cricket Ground,0,Melbourne Stars,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,71,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
+1195630,Victoria,Melbourne,31/01/2020,SNJ O'Keefe,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Sixers,runs,43,N,NA,PJ Gillespie,GA Abood,-37.81385247,144.9474603
+1195632,Victoria,Melbourne,6/02/2020,NCR Larkin,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars,runs,28,N,NA,GA Abood,SAJ Craig,-37.81385247,144.9474603
+1226827,Victoria,Melbourne,24/01/2021,MS Wade,Melbourne Cricket Ground,0,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes,runs,7,N,NA,DR Close,SAJ Craig,-37.81385247,144.9474603
+1226839,Victoria,Melbourne,15/01/2021,ADS Fletcher,Melbourne Cricket Ground,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars,runs,111,N,NA,SJ Nogajski,SAJ Craig,-37.81385247,144.9474603
+1226849,Victoria,Melbourne,23/01/2021,JJ Roy,Melbourne Cricket Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,11,N,NA,MW Graham-Smith,PJ Gillespie,-37.81385247,144.9474603
+1226858,Victoria,Melbourne,26/01/2021,BJ Dwarshuis,Melbourne Cricket Ground,0,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,SAJ Craig,-37.81385247,144.9474603
+1226860,Victoria,Melbourne,26/01/2021,Z Evans,Melbourne Cricket Ground,0,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Renegades,runs,11,N,NA,DR Close,MW Graham-Smith,-37.81385247,144.9474603
+1226864,Victoria,Melbourne,17/01/2021,LC Hatcher,Melbourne Cricket Ground,0,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars,wickets,6,N,NA,DM Koch,SAJ Craig,-37.81385247,144.9474603
+1152549,Victoria,Moe,23/01/2019,BR Dunk,Ted Summerton Reserve,0,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars,runs,44,N,NA,PJ Gillespie,MW Graham-Smith,-38.1826645,146.2568175
+1195580,Victoria,Moe,22/12/2019,Haris Rauf,Ted Summerton Reserve,0,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Melbourne Stars,runs,52,N,NA,GJ Davidson,DM Koch,-38.1826645,146.2568175
+1114896,Western Australia,Perth,1/02/2018,MS Wade,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Hobart Hurricanes,runs,71,N,NA,GA Abood,SJ Nogajski,-31.95104596,115.8890781
+1152519,Western Australia,Perth,26/12/2018,JA Richardson,Perth Stadium,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,PJ Gillespie,GC Joshua,-31.95104596,115.8890781
+1152531,Western Australia,Perth,5/01/2019,Mujeeb Ur Rahman,Perth Stadium,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,5,N,NA,PJ Gillespie,AK Wilds,-31.95104596,115.8890781
+1152540,Western Australia,Perth,13/01/2019,CT Bancroft,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GC Joshua,SD Fry,-31.95104596,115.8890781
+1152544,Western Australia,Perth,18/01/2019,GJ Bailey,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,4,N,NA,AK Wilds,MW Graham-Smith,-31.95104596,115.8890781
+1152551,Western Australia,Perth,24/01/2019,CJ Ferguson,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,JD Ward,SD Fry,-31.95104596,115.8890781
+1152553,Western Australia,Perth,28/01/2019,CP Tremain,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Melbourne Renegades,runs,78,N,NA,P Wilson,SAJ Craig,-31.95104596,115.8890781
+1152561,Western Australia,Perth,3/02/2019,AJ Turner,Perth Stadium,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,27,N,NA,NR Johnstone,GA Abood,-31.95104596,115.8890781
+1195579,Western Australia,Perth,21/12/2019,MR Marsh,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,11,N,NA,GA Abood,SAJ Craig,-31.95104596,115.8890781
+1195584,Western Australia,Perth,26/12/2019,TK Curran,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Sixers,runs,48,N,NA,GJ Davidson,JD Ward,-31.95104596,115.8890781
+1195596,Western Australia,Perth,5/01/2020,DJM Short,Perth Stadium,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,8,N,NA,JD Ward,MW Graham-Smith,-31.95104596,115.8890781
+1195604,Western Australia,Perth,11/01/2020,MR Marsh,Perth Stadium,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers,runs,34,N,NA,JD Ward,GC Joshua,-31.95104596,115.8890781
+1195610,Western Australia,Perth,15/01/2020,JR Coleman,Perth Stadium,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars,wickets,8,N,NA,NR Johnstone,GA Abood,-31.95104596,115.8890781
+1195618,Western Australia,Perth,20/01/2020,LS Livingstone,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,8,N,NA,PJ Gillespie,GC Joshua,-31.95104596,115.8890781
+1195623,Western Australia,Perth,24/01/2020,WA Agar,Perth Stadium,0,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,16,N,NA,NR Johnstone,MW Graham-Smith,-31.95104596,115.8890781
+1226829,Western Australia,Perth,6/01/2021,MR Marsh,Perth Stadium,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,field,Perth Scorchers,runs,86,N,NA,DM Koch,MW Graham-Smith,-31.95104596,115.8890781
+1226853,Western Australia,Perth,3/01/2021,JP Inglis,Perth Stadium,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,96,N,NA,MW Graham-Smith,SA Lightbody,-31.95104596,115.8890781
+1226857,Western Australia,Perth,12/01/2021,JJ Roy,Perth Stadium,0,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Perth Scorchers,wickets,9,N,NA,MW Graham-Smith,NR Johnstone,-31.95104596,115.8890781
+1226871,Western Australia,Perth,7/01/2021,N McAndrew,Perth Stadium,0,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Thunder,runs,39,N,NA,DM Koch,NR Johnstone,-31.95104596,115.8890781
+1226878,Western Australia,Perth,9/01/2021,JA Richardson,Perth Stadium,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers,runs,17,N,NA,DM Koch,MW Graham-Smith,-31.95104596,115.8890781
+1114862,Western Australia,Perth,26/12/2017,HWR Cartwright,W.A.C.A. Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers,runs,13,N,NA,SA Lightbody,SD Fry,-31.95963005,115.8794783
+1114869,Western Australia,Perth,1/01/2018,M Klinger,W.A.C.A. Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,JD Ward,DM Koch,-31.95963005,115.8794783
+1114877,Western Australia,Perth,8/01/2018,AJ Turner,W.A.C.A. Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Perth Scorchers,wickets,5,N,NA,SJ Nogajski,MW Graham-Smith,-31.95963005,115.8794783
+1114889,Western Australia,Perth,20/01/2018,AC Agar,W.A.C.A. Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Perth Scorchers,wickets,5,N,NA,SAJ Craig,DM Koch,-31.95963005,115.8794783
+1114893,Western Australia,Perth,25/01/2018,AC Voges,W.A.C.A. Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers,wickets,4,N,NA,GJ Davidson,SA Lightbody,-31.95963005,115.8794783
+524918,Western Australia,Perth,18/12/2011,BW Hilfenhaus,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes,runs,31,N,NA,GA Abood,AP Ward,-31.95963005,115.8794783
+524925,Western Australia,Perth,29/12/2011,MJ North,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers,runs,10,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
+524934,Western Australia,Perth,8/01/2012,GB Hogg,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers,runs,42,N,NA,RL Parry,AP Ward,-31.95963005,115.8794783
+524943,Western Australia,Perth,21/01/2012,MR Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers,runs,11,N,NA,SD Fry,JD Ward,-31.95963005,115.8794783
+524945,Western Australia,Perth,28/01/2012,MC Henriques,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers,wickets,7,N,NA,PR Reiffel,JD Ward,-31.95963005,115.8794783
+571235,Western Australia,Perth,9/12/2012,PJ Hughes,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,6,N,NA,IH Lock,P Wilson,-31.95963005,115.8794783
+571236,Western Australia,Perth,12/12/2012,SL Malinga,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,runs,24,N,D/L,IH Lock,JD Ward,-31.95963005,115.8794783
+571251,Western Australia,Perth,29/12/2012,SE Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers,runs,51,N,NA,GC Joshua,MD Martell,-31.95963005,115.8794783
+571256,Western Australia,Perth,4/01/2013,JP Behrendorff,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,9,N,NA,DB Mealey,JD Ward,-31.95963005,115.8794783
+571265,Western Australia,Perth,5/02/2013,SE Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers,wickets,8,N,D/L,SD Fry,MD Martell,-31.95963005,115.8794783
+571266,Western Australia,Perth,19/01/2013,NM Hauritz,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,34,N,NA,SD Fry,MD Martell,-31.95963005,115.8794783
+654039,Western Australia,Perth,26/12/2013,Yasir Arafat,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers,runs,6,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
+654057,Western Australia,Perth,3/01/2014,SM Katich,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers,wickets,6,N,NA,GC Joshua,DB Mealey,-31.95963005,115.8794783
+654063,Western Australia,Perth,7/01/2014,NM Coulter-Nile,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,6,N,NA,IH Lock,JD Ward,-31.95963005,115.8794783
+654079,Western Australia,Perth,16/01/2014,CJ Simmons,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers,runs,5,N,NA,AJ Barrow,IH Lock,-31.95963005,115.8794783
+654099,Western Australia,Perth,7/02/2014,GB Hogg,Western Australia Cricket Association Ground,0,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers,runs,39,N,NA,MD Martell,JD Ward,-31.95963005,115.8794783
+756743,Western Australia,Perth,22/12/2014,JP Behrendorff,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,1,N,NA,AJ Barrow,GJ Davidson,-31.95963005,115.8794783
+756747,Western Australia,Perth,26/12/2014,M Klinger,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers,runs,35,N,NA,GA Abood,MD Martell,-31.95963005,115.8794783
+756759,Western Australia,Perth,1/01/2015,JH Kallis,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder,runs,20,N,NA,SAJ Craig,MW Graham-Smith,-31.95963005,115.8794783
+756773,Western Australia,Perth,8/01/2015,MA Carberry,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers,wickets,8,N,NA,MD Martell,SJ Nogajski,-31.95963005,115.8794783
+756801,Western Australia,Perth,25/01/2015,AJ Tye,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers,runs,18,N,NA,GC Joshua,SJ Nogajski,-31.95963005,115.8794783
+897705,Western Australia,Perth,21/12/2015,AU Rashid,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers,wickets,4,N,NA,GA Abood,MD Martell,-31.95963005,115.8794783
+897711,Western Australia,Perth,26/12/2015,DJ Willey,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers,wickets,9,N,NA,SAJ Craig,MW Graham-Smith,-31.95963005,115.8794783
+897727,Western Australia,Perth,2/01/2016,DJ Willey,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers,wickets,9,N,NA,AJ Barrow,P Wilson,-31.95963005,115.8794783
+1023589,Western Australia,Perth,23/12/2016,AJ Turner,Western Australia Cricket Association Ground,0,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Perth Scorchers,runs,48,N,NA,GJ Davidson,MD Martell,-31.95963005,115.8794783
+1023605,Western Australia,Perth,1/01/2017,MR Marsh,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers,runs,50,N,NA,GA Abood,MW Graham-Smith,-31.95963005,115.8794783
+1023613,Western Australia,Perth,5/01/2017,CA Lynn,Western Australia Cricket Association Ground,0,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Brisbane Heat,wickets,9,N,NA,PJ Gillespie,JD Ward,-31.95963005,115.8794783
+1023631,Western Australia,Perth,14/01/2017,MA Beer,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars,wickets,7,N,NA,GC Joshua,DB Mealey,-31.95963005,115.8794783
+1023645,Western Australia,Perth,24/01/2017,MG Johnson,Western Australia Cricket Association Ground,0,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,SAJ Craig,SJ Nogajski,-31.95963005,115.8794783
+1023649,Western Australia,Perth,28/01/2017,JA Richardson,Western Australia Cricket Association Ground,0,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers,wickets,9,N,NA,MD Martell,P Wilson,-31.95963005,115.8794783
+524922,New South Wales,Sydney,23/12/2011,CH Gayle,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder,wickets,6,N,NA,MD Martell,P Wilson,-33.84700867,151.0632848
+524926,New South Wales,Sydney,30/12/2011,Shahid Afridi,Stadium Australia,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades,runs,6,N,NA,IH Lock,AP Ward,-33.84700867,151.0632848
+524933,New South Wales,Sydney,8/01/2012,MA Starc,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers,runs,17,N,D/L,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
+571238,New South Wales,Sydney,14/12/2012,AW O'Brien,Stadium Australia,0,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,5,N,NA,AJ Barrow,AP Ward,-33.84700867,151.0632848
+571243,New South Wales,Sydney,20/12/2012,KW Richardson,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,51,N,NA,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
+571250,New South Wales,Sydney,28/12/2012,DT Christian,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat,wickets,5,N,NA,SJ Davis,PR Reiffel,-33.84700867,151.0632848
+571252,New South Wales,Sydney,30/12/2012,DP Hughes,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,bat,Sydney Sixers,wickets,4,N,NA,GA Abood,AJ Barrow,-33.84700867,151.0632848
+654041,New South Wales,Sydney,27/12/2013,MEK Hussey,Stadium Australia,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,6,N,NA,SD Fry,MW Graham-Smith,-33.84700867,151.0632848
+654053,New South Wales,Sydney,1/01/2014,BJ Hodge,Stadium Australia,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars,wickets,7,N,NA,GA Abood,MW Graham-Smith,-33.84700867,151.0632848
+654065,New South Wales,Sydney,8/01/2014,CA Lynn,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,48,N,NA,SD Fry,AP Ward,-33.84700867,151.0632848
+654091,New South Wales,Sydney,25/01/2014,NM Lyon,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,AJ Barrow,DB Mealey,-33.84700867,151.0632848
+756741,New South Wales,Sydney,21/12/2014,JH Kallis,Stadium Australia,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Sydney Thunder,runs,56,N,NA,DB Mealey,JD Ward,-33.84700867,151.0632848
+756749,New South Wales,Sydney,27/12/2014,AC Blizzard,Stadium Australia,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Sixers,runs,16,N,NA,SJ Nogajski,P Wilson,-33.84700867,151.0632848
+524915,New South Wales,Sydney,16/12/2011,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Sydney Sixers,wickets,7,N,NA,BNJ Oxenford,PR Reiffel,-33.84700867,151.0632848
+524923,New South Wales,Sydney,27/12/2011,DJ Bravo,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Sydney Sixers,runs,2,N,NA,GA Abood,BNJ Oxenford,-33.84700867,151.0632848
+524941,New South Wales,Sydney,18/01/2012,MA Starc,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers,runs,1,N,NA,SD Fry,P Wilson,-33.84700867,151.0632848
+571233,New South Wales,Sydney,8/12/2012,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,AJ Barrow,AP Ward,-33.84700867,151.0632848
+571240,New South Wales,Sydney,16/12/2012,MA Beer,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,7,N,NA,GA Abood,AP Ward,-33.84700867,151.0632848
+571248,New South Wales,Sydney,26/12/2012,RT Ponting,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes,wickets,7,N,NA,SJ Davis,DB Mealey,-33.84700867,151.0632848
+654033,New South Wales,Sydney,21/12/2013,NJ Maddinson,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,6,N,NA,GA Abood,AJ Barrow,-33.84700867,151.0632848
+654045,New South Wales,Sydney,29/12/2013,GJ Maxwell,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Stars,runs,77,N,NA,AJ Barrow,MW Graham-Smith,-33.84700867,151.0632848
+654069,New South Wales,Sydney,10/01/2014,Yasir Arafat,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,tie,NA,Y,NA,GA Abood,SD Fry,-33.84700867,151.0632848
+654077,New South Wales,Sydney,15/01/2014,SPD Smith,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers,runs,7,N,NA,MW Graham-Smith,P Wilson,-33.84700867,151.0632848
+654097,New South Wales,Sydney,5/02/2014,CJ Simmons,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Perth Scorchers,runs,5,N,D/L,MD Martell,P Wilson,-33.84700867,151.0632848
+756737,New South Wales,Sydney,19/12/2014,NJ Maddinson,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,AJ Barrow,DB Mealey,-33.84700867,151.0632848
+756753,New South Wales,Sydney,29/12/2014,AJ Tye,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers,runs,36,N,NA,SAJ Craig,SJ Nogajski,-33.84700867,151.0632848
+756775,New South Wales,Sydney,22/01/2015,JC Silk,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,4,N,NA,AJ Barrow,GC Joshua,-33.84700867,151.0632848
+756787,New South Wales,Sydney,14/01/2015,J Botha,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,23,N,NA,MW Graham-Smith,SJ Nogajski,-33.84700867,151.0632848
+897701,New South Wales,Sydney,20/12/2015,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers,runs,95,N,NA,SD Fry,PJ Gillespie,-33.84700867,151.0632848
+897713,New South Wales,Sydney,27/12/2015,GJ Maxwell,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Melbourne Stars,wickets,5,N,NA,GC Joshua,SJ Nogajski,-33.84700867,151.0632848
+897745,New South Wales,Sydney,10/01/2016,JA Burns,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,6,N,NA,PJ Gillespie,MW Graham-Smith,-33.84700867,151.0632848
+897753,New South Wales,Sydney,16/01/2016,SR Watson,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Thunder,runs,46,N,NA,GA Abood,JD Ward,-33.84700867,151.0632848
+1023587,New South Wales,Sydney,23/12/2016,DJM Short,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Hobart Hurricanes,runs,60,N,NA,PJ Gillespie,P Wilson,-33.84700867,151.0632848
+1023593,New South Wales,Sydney,27/12/2016,J Botha,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Sydney Sixers,wickets,6,N,NA,SD Fry,MW Graham-Smith,-33.84700867,151.0632848
+1023621,New South Wales,Sydney,9/01/2017,BJ Haddin,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,bat,Sydney Sixers,wickets,6,N,NA,SAJ Craig,AK Wilds,-33.84700867,151.0632848
+1023629,New South Wales,Sydney,14/01/2017,Fawad Ahmed,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,bat,Sydney Thunder,wickets,8,N,NA,AJ Barrow,GJ Davidson,-33.84700867,151.0632848
+1114860,New South Wales,Sydney,23/12/2017,AJ Turner,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers,wickets,6,N,NA,RJ Tucker,GC Joshua,-33.84700867,151.0632848
+1114864,New South Wales,Sydney,28/12/2017,AT Carey,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Adelaide Strikers,runs,6,N,NA,P Wilson,SAJ Craig,-33.84700867,151.0632848
+1114883,New South Wales,Sydney,13/01/2018,CJ Green,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,GJ Davidson,SA Lightbody,-33.84700867,151.0632848
+1114887,New South Wales,Sydney,18/01/2018,SA Abbott,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,GC Joshua,MW Graham-Smith,-33.84700867,151.0632848
+1114891,New South Wales,Sydney,23/01/2018,JL Denly,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Sydney Sixers,wickets,5,N,NA,PJ Gillespie,AK Wilds,-33.84700867,151.0632848
+1152514,New South Wales,Sydney,22/12/2018,SNJ O'Keefe,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers,runs,17,N,NA,GJ Davidson,MW Graham-Smith,-33.84700867,151.0632848
+1152520,New South Wales,Sydney,27/12/2018,PSP Handscomb,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,5,N,NA,SA Lightbody,SAJ Craig,-33.84700867,151.0632848
+1152542,New South Wales,Sydney,16/01/2019,KW Richardson,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades,wickets,7,N,NA,GJ Davidson,PJ Gillespie,-33.84700867,151.0632848
+1152546,New South Wales,Sydney,20/01/2019,JM Vince,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Sydney Sixers,runs,79,N,NA,JD Ward,SAJ Craig,-33.84700867,151.0632848
+1152550,New South Wales,Sydney,23/01/2019,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,AK Wilds,SJ Nogajski,-33.84700867,151.0632848
+1152555,New South Wales,Sydney,29/01/2019,BJ Dwarshuis,Sydney Cricket Ground,0,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,GJ Davidson,AK Wilds,-33.84700867,151.0632848
+1152559,New South Wales,Sydney,2/02/2019,DP Hughes,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers,wickets,9,N,D/L,P Wilson,SD Fry,-33.84700867,151.0632848
+1195574,New South Wales,Sydney,18/12/2019,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Sydney Sixers,wickets,8,N,NA,PJ Gillespie,SD Fry,-33.84700867,151.0632848
+1195581,New South Wales,Sydney,22/12/2019,CA Lynn,Sydney Cricket Ground,0,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Brisbane Heat,runs,48,N,NA,PJ Gillespie,MW Graham-Smith,-33.84700867,151.0632848
+1195586,New South Wales,Sydney,28/12/2019,TK Curran,Sydney Cricket Ground,0,Sydney Sixers,Sydney Thunder,Sydney Thunder,bat,Sydney Sixers,tie,NA,Y,NA,AK Wilds,MW Graham-Smith,-33.84700867,151.0632848
+1195611,New South Wales,Sydney,16/01/2020,NA,Sydney Cricket Ground,0,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,NA,NA,NA,NA,NA,P Wilson,GC Joshua,-33.84700867,151.0632848
+1195617,New South Wales,Sydney,20/01/2020,MC Henriques,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers,runs,21,N,D/L,P Wilson,GA Abood,-33.84700867,151.0632848
+1195624,New South Wales,Sydney,25/01/2020,SPD Smith,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers,wickets,7,N,NA,P Wilson,DR Close,-33.84700867,151.0632848
+1195633,New South Wales,Sydney,8/02/2020,JR Philippe,Sydney Cricket Ground,0,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers,runs,19,N,NA,P Wilson,GA Abood,-33.84700867,151.0632848
+1226882,New South Wales,Sydney,6/02/2021,JM Vince,Sydney Cricket Ground,0,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Sydney Sixers,runs,27,N,NA,P Wilson,SJ Nogajski,-33.84700867,151.0632848
+756791,New South Wales,Sydney,17/01/2015,KP Pietersen,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Melbourne Stars,wickets,8,N,NA,DB Mealey,RJ Tucker,-33.84700867,151.0632848
+897715,New South Wales,Sydney,28/12/2015,JH Kallis,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder,wickets,7,N,NA,GA Abood,GJ Davidson,-33.84700867,151.0632848
+897737,New South Wales,Sydney,7/01/2016,CT Bancroft,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Perth Scorchers,runs,30,N,NA,GJ Davidson,P Wilson,-33.84700867,151.0632848
+897747,New South Wales,Sydney,11/01/2016,CL White,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,bat,Melbourne Renegades,wickets,5,N,NA,GA Abood,SAJ Craig,-33.84700867,151.0632848
+1023581,New South Wales,Sydney,20/12/2016,MC Henriques,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers,wickets,9,N,NA,JD Ward,P Wilson,-33.84700867,151.0632848
+1023595,New South Wales,Sydney,28/12/2016,CA Lynn,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat,wickets,3,N,NA,SAJ Craig,DB Mealey,-33.84700867,151.0632848
+1023611,New South Wales,Sydney,4/01/2017,EJG Morgan,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,field,Sydney Thunder,wickets,6,N,NA,GA Abood,SD Fry,-33.84700867,151.0632848
+1023637,New South Wales,Sydney,18/01/2017,IS Sodhi,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers,runs,77,N,NA,AJ Barrow,MD Martell,-33.84700867,151.0632848
+1114856,New South Wales,Sydney,19/12/2017,SR Watson,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder,wickets,5,N,NA,PJ Gillespie,GA Abood,-33.84700867,151.0632848
+1114868,New South Wales,Sydney,1/01/2018,DJM Short,Sydney Showground Stadium,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Hobart Hurricanes,runs,9,N,NA,PJ Gillespie,GA Abood,-33.84700867,151.0632848
+1114875,New South Wales,Sydney,7/01/2018,Rashid Khan,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers,runs,25,N,NA,SA Lightbody,SD Fry,-33.84700867,151.0632848
+1114880,New South Wales,Sydney,11/01/2018,UT Khawaja,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder,runs,3,N,NA,PJ Gillespie,AK Wilds,-33.84700867,151.0632848
+1152518,New South Wales,Sydney,24/12/2018,JC Buttler,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder,runs,21,N,NA,GA Abood,AK Wilds,-33.84700867,151.0632848
+1152527,New South Wales,Sydney,2/01/2019,CJ Ferguson,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder,runs,1,N,NA,P Wilson,AK Wilds,-33.84700867,151.0632848
+1152534,New South Wales,Sydney,8/01/2019,CA Lynn,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,Brisbane Heat,runs,15,N,D/L,GJ Davidson,SAJ Craig,-33.84700867,151.0632848
+1152538,New South Wales,Sydney,13/01/2019,SR Watson,Sydney Showground Stadium,0,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Sydney Thunder,runs,71,N,NA,GA Abood,SA Lightbody,-33.84700867,151.0632848
+1152548,New South Wales,Sydney,22/01/2019,HF Gurney,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades,runs,12,N,NA,GJ Davidson,SAJ Craig,-33.84700867,151.0632848
+1195591,New South Wales,Sydney,2/01/2020,NCR Larkin,Sydney Showground Stadium,0,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars,wickets,3,N,NA,NR Johnstone,MW Graham-Smith,-33.84700867,151.0632848
+1195597,New South Wales,Sydney,6/01/2020,T Banton,Sydney Showground Stadium,0,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat,runs,16,N,D/L,GJ Davidson,SD Fry,-33.84700867,151.0632848
+1195603,New South Wales,Sydney,11/01/2020,AD Hales,Sydney Showground Stadium,0,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder,wickets,4,N,NA,P Wilson,AK Wilds,-33.84700867,151.0632848
+1195614,New South Wales,Sydney,18/01/2020,CH Morris,Sydney Showground Stadium,0,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder,runs,4,N,D/L,GA Abood,AK Wilds,-33.84700867,151.0632848
+1195626,New South Wales,Sydney,26/01/2020,AD Hales,Sydney Showground Stadium,0,Sydney Thunder,Perth Scorchers,Perth Scorchers,bat,Sydney Thunder,wickets,7,N,D/L,GJ Davidson,SD Fry,-33.84700867,151.0632848

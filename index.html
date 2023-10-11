@@ -13,7 +13,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Google Font-->
-
+  <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@800&family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
@@ -28,9 +29,9 @@
       </div>
       <div class="pure-u-3-5">
         <h1>Big Bash Cricket in Australia</h1>
-        <p id="opening_paragraph">The Big Bash is a Twenty-Twenty cricket tournament in Australia. The tournament started in 2011 and has seen the 
-          best of the best Australian and International cricket players. Many Australian players have made a name for themselves
-          playing in the tournament. Here is an overview of the tournament and legendary players that are the best in the league for
+        <p id="opening_paragraph">The Big Bash is a Twenty-Twenty cricket tournament in Australia. The tournament started in 2011 and has had the 
+          best of the best Australian and International cricket players play in the tournament. Many Australian players have made a name for themselves
+          playing resulting in callups to the Australian Cricket Team. Here is an overview of the tournament and legendary players that are the best in the league for
           their given skill. <br><br><br>
         </p>
       </div>
@@ -42,12 +43,19 @@
 
     </div>
     <div class="pure-g">
-      <div class="pure-u-3-5">
+      <div class="pure-u-2-3">
+        <div class="pure-u-1-1">
         <div id="big_bash_game_map" class="vis-container"></div>
+        </div>
+        <div class ="pure-u-4-5">
+          <p> <br><br><br></p>
+          <h2 id="bbloverviewtitle">Best Players in the BBL</h2>
+        </div>
       </div>
-      <div class="pure-u-2-5">
+      <div class="pure-u-1-3">
           <h2 id="bbloverviewtitle">BBL: An Overview</h2>
-          <p id="paragraph_1"> In the Big Bash there are 8 teams:<br>
+          <p id="paragraph_1"> The Big Bash League (BBL) was started in 2011 and has ran annually in Australia from November to January. <br><br>
+                            The BBL contains 8 teams:<br><br>
                             <span class="stars">Melbourne Stars</span> <br>
                             <span class="renegades">Melbourne Renegades</span> <br>
                             <span class="thunder">Sydney Thunder</span> <br>
@@ -56,23 +64,28 @@
                             <span class="scorchers">Perth Scorchers</span> <br>
                             <span class="hurricanes">Hobart Hurricanes</span> <br>
                             <span class="strikers">Adelaide Strikers</span> <br>
-                            As we can see to the left, matches have been played in every state and territory in Australia
+                            <br>
+                            The <span class="scorchers">Perth Scorchers</span> are the most successful team in the competition, with titles in BBL03 (2013-2014), BBL04 (2014-2015), BBL06 (2016-2017) and BBL11 (2021-2022).
           </p>
+          <img src="images/scorchers.jpg" height="200" width="350"/>
       </div>
     </div>
-
     <div class="pure-g">
-      <div class="pure-u-1-1">
-      <h2 id="playertitle">Best Players in the BBL</h2>
-      </div>
-    <div class="pure-g">
-      <div class="pure-u-1-1">
+      <div class="pure-u-2-5">
       <h3 id="playertitle">Bowling</h3>
       </div>
     </div>
     <div class="pure-g">
       <div class="pure-u-3-5">
           <div class="pure-g">
+            <div class="pure-u-3-5">
+              <p id="player_text">Bowlers bowl a variety of different ways (e.g. fast, slow, spin, etc), each of which has a different ability 
+                to pick up wickets and stop the batsman scoring. <br>The two bowlers below have excelled at taking wickets for many seasons.
+              You can use the chart to the right to look more in depth into some of the other bowlers that are notable in the BBL</p>
+            </div>
+            <div class="pure-u-1-5">
+              <br>
+            </div>
             <div class="pure-u-1-3">
               <img src="images/benlaughlin.jpg" height="200" width="200"/>
             </div>
@@ -94,7 +107,7 @@
             <div class="pure-u-2-3">
               <p id="playertext">
                 <br>
-                Name: Sean Abbott<br>
+                Name: <span class='bold'>Sean Abbott</span><br>
                 Teams: <span class="thunder">Sydney Thunder</span> (2011-2013),
                        <span class="sixers">Sydney Sixers</span> (2014-2021) <br>
                 Role: Bowler <br>
@@ -110,23 +123,34 @@
     </div>
 
     <div class="pure-g">
-      <div class="pure-u-1-1">
+      <div class="pure-u-1-3">
+      <p><br><br></p>
       <h3 id="playertitle">Batting</h3>
       </div>
     </div>
     <div class="pure-g">
       <div class="pure-u-2-5">
+          <p class="player_text">
+            Batters can play many different ways in the BBL. <br> Some play the ball around the ground for 1s, 2s and 3s while 
+            others try to hit the ball hard and get it to or over the rope for 4 or 6. <br> Below are the top 10 batters by runs scored and
+            a breakdown of how they score.
+          </p>
         <div id ="bat_stack" class="vis-container"></div>
       </div>
       <div class="pure-u-3-5">
           <div class="pure-g">
+            <div class="pure-u-1-1">
+              <br>
+              <br>
+              <br>
+            </div>
             <div class="pure-u-1-3">
               <img src="images/chrislynn.webp" height="200" width="200"/>
             </div>
             <div class="pure-u-2-3">
               <p id="playertext">
                 <br>
-                Name: Chris Lynn <br>
+                Name: <span class="bold">Chris Lynn</span><br>
                 Teams: <span class="heat">Brisbane Heat</span> (2011-2021) <br>
                 Role: Batsman <br>
                 Runs: 2745 (Most in BBL History)<br>
@@ -134,12 +158,12 @@
               </p>
             </div>
             <div class="pure-u-1-3">
-              <img src="images/aaronfinch.jpg" height="200" width="180"/>
+              <img src="images/aaronfinch.jpg" height="200" width="200"/>
             </div>
             <div class="pure-u-2-3">
               <p id="playertext">
                 <br>
-                Name: Aaron Finch <br>
+                Name: <span class='bold'>Aaron Finch</span> <br>
                 Teams: <span class="renegades">Melbourne Renegades</span> (2011-2021) <br>
                 Role: Batsman <br>
                 Runs: 2430 <br>
@@ -151,12 +175,19 @@
     </div>
 
     <div class="pure-g">
-      <div class="pure-u-1-1">
-      <h3 id="allroundertitle">Allrounders</h3>
+      <div class="pure-u-1-3">
+      <p><br><br></p>
+      <h3 id="playertitle">Allrounders</h3>
       </div>
     </div>
     <div class="pure-g">
       <div class="pure-u-3-5">
+        <div class="pure-u-3-5">
+        <p>
+          Allrounders excel at both bowling and batting and are a real asset to their team. The two players below are the most notable allrounders
+          due to their long term success in all facets of the BBL
+        </p>
+        </div>
           <div class="pure-g">
             <div class="pure-u-1-3">
               <img src="images/danchristrian.jpg" height="200" width="200"/>
@@ -164,7 +195,7 @@
             <div class="pure-u-2-3">
               <p id="playertext">
                 <br>
-                Name: Dan Christian <br>
+                Name: <span class='bold'>Dan Christian</span> <br>
                 Teams: <span class="heat">Brisbane Heat</span> (2011-2015),
                        <span class="hurricanes">Hobart Hurricanes</span> (2016-2018)
                        <span class="renegades">Melbourne Renegades</span> (2019-2020)
@@ -181,7 +212,7 @@
             <div class="pure-u-2-3">
               <p id="playertext">
                 <br>
-                Name: Ben Cutting <br>
+                Name: <span class='bold'>Ben Cutting</span> <br>
                 Teams: <span class="heat">Brisbane Heat</span> (2011-2020)
                        <span class="thunder">Sydney Thunder</span> (2021) <br>
                 Role: Allrounder <br>
@@ -192,6 +223,10 @@
           </div>
       </div>
       <div class="pure-u-2-5">
+        <div class="pure-u-1-1">
+          <br>
+          <br>
+        </div>
         <div id ="allround_scatter" class="vis-container"></div>
       </div>
     </div>
@@ -201,22 +236,22 @@
 
   
   <script type="text/javascript">
-  
+
     var spec1 = "js/choropleth_map.vg.json";
     vegaEmbed('#big_bash_game_map', spec1, {"actions": false });
 
     var spec2 = "js/stat_bar.vg.json";
-    vegaEmbed('#stat_bar', spec2).then(function(result) {
+    vegaEmbed('#stat_bar', spec2,{"actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     var spec3 = "js/allround_scatter.vg.json";
-    vegaEmbed('#allround_scatter', spec3).then(function(result) {
+    vegaEmbed('#allround_scatter', spec3, {"actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     var spec4 = "js/bat_stack.vg.json";
-    vegaEmbed('#bat_stack', spec4).then(function(result) {
+    vegaEmbed('#bat_stack', spec4, {"actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

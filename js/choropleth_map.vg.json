@@ -21,7 +21,8 @@
         },
         {"calculate": "datum.runs / datum.matches", "as": "RunsPerGame"}
     ],
-    "mark": {"type": "geoshape"},
+    "layer":[
+    {"mark": {"type": "geoshape"},
     "encoding": {
           "color": {
             "field": "RunsPerGame",
@@ -34,11 +35,33 @@
             {"field": "RunsPerGame", "type":"quantitative", "title": "Runs Per Match","format":".0f"},
             {"field": "runs", "type": "quantitative", "title": "Total Runs"},
             {"field": "matches", "type": "quantitative", "title": "Total Matches"}
-          ]
+          ]}
           
 
         },
+    {"mark": {"type": "text",
+        "align": "right",
+        "dx": 280,
+        "dy": 120,
+        "fontSize": 15,
+      "baseline":"line-top"},
+      "encoding": {
+        "text": {"value": ["Victoria, Most Runs Scored","and Most Matches Played"]},
+        "color": {"value":"white"},
+        "opacity":{"value":1}
+      }},
+    {"mark": {"type": "text",
+        "align": "right",
+        "dx": 220,
+        "dy": -80,
+        "fontSize": 15,
+      "baseline":"line-top"},
+      "encoding": {
+        "text": {"value": ["Queensland, Most Runs","Scored Per Match"]},
+        "color": {"value":"white"},
+        "opacity":{"value":1}
+      }}
+    ],
     "background":"#525252",
     "config": {"title": {"color":"white"},"axis":{"titleColor":"white","labelColor":"white"},"legend": {"titleColor":"white","labelColor":"white"}}
-    
   }

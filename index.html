@@ -246,20 +246,20 @@
   <script type="text/javascript">
 
     var spec1 = "js/choropleth_map.vg.json";
-    vegaEmbed('#big_bash_game_map', spec1, {"actions": false });
+    vegaEmbed('#big_bash_game_map', spec1, {"actions": false,  "renderer":'svg' });
 
     var spec2 = "js/stat_bar.vg.json";
-    vegaEmbed('#stat_bar', spec2,{"actions": false }).then(function(result) {
+    vegaEmbed('#stat_bar', spec2,{"actions": false , "renderer":'svg'}).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     var spec3 = "js/allround_scatter.vg.json";
-    vegaEmbed('#allround_scatter', spec3, {"actions": false }).then(function(result) {
+    vegaEmbed('#allround_scatter', spec3, {"actions": false, "renderer":'svg' }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     var spec4 = "js/bat_stack.vg.json";
-    vegaEmbed('#bat_stack', spec4, {"actions": false }).then(function(result) {
+    vegaEmbed('#bat_stack', spec4, {"actions": false, "renderer":'svg'}).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
